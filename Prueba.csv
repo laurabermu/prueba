@@ -1,0 +1,474 @@
+Fecha;Edad;Talla;Peso;ISC;GEN;TFG;"CREA (MG/DL) "",""";TFG CALC;LLAMADOS PROTOCOLO;NOMBRE PROTOCOLO;Palabras en justi clinica;DX;CICLO
+26/09/2024;31;1,52;57;1,59;F;Sin Cr;;Sin Cr;PACLItaxel;Paclitaxel semanal (x 4 semanas);PACLI,semanal,30%;Tumor maligno de la mama, parte no especificada;2
+26/09/2024;27;1,61;79;1,93;F;Sin Cr;;Sin Cr;PACLItaxel;Paclitaxel semanal (x 4 semanas);#N/D;Tumor maligno de la mama, parte no especificada;2
+26/09/2024;38;1,55;52,5;1,52;F;81;;Sin Cr;CARBOplatino,PACLItaxel,PACLItaxel,PERTUzumab,TRAStuzumab;TRAIN-2 (C1);CARBO,INF,PACLI,PERTU,PLATINO,TRAIN ,TrastU,20%,80%,AUC;Tumor maligno de la mama, parte no especificada;2
+26/09/2024;84;1,58;63;1,69;M;Sin Cr;;Sin Cr;PEMBROlizumab;Carcinoma Renal- Pembrolizumab + axatinib (6 semanas);#N/D;Tumor maligno de la prostata;1
+26/09/2024;67;1,81;82;2,04;M;Sin Cr;;Sin Cr;Irinotecan,Fluorouracilo,Fluorouracilo,Folinato,Irinotecan,Fluorouracilo,Fluorouracilo,Folinato,Bevacizumab;Bevacizumab+FOLFIRI;CAPEOX,FOLFIRI,INF,MAYO ,VIDE;Tumor maligno del colon, parte no especificada;2
+26/09/2024;69;1,65;70;1,82;M;Sin Cr;;Sin Cr;Bevacizumab;AVEX;#N/D;Tumor maligno del colon, parte no especificada;3
+26/09/2024;68;1,59;62;1,68;M;Sin Cr;;Sin Cr;Bevacizumab,Fluorouracilo,Fluorouracilo,Folinato;GRAMONT + BEVACIZUMAB;Beva,Capec,FOLFOX,GRAMONT;Tumor maligno del colon, parte no especificada;5
+26/09/2024;69;1,58;66;1,74;M;Sin Cr;;Sin Cr;PACLItaxel;Paclitaxel semanal;#N/D;Tumor maligno de la vejiga urinaria, parte no especificada;1
+26/09/2024;62;1,74;80;1,99;M;Sin Cr;;Sin Cr;OXALIplatino;CAPEOX;Capec,Oxali,PLATINO;Tumor maligno del recto;1
+26/09/2024;76;1,53;60;1,63;F;Sin Cr;;Sin Cr;GEMcitabina,Paclitaxel LIGADO a ALBUMINA;Gemcitabina+NAB-Pacli;#N/D;Tumor maligno de otras partes especificadas del pancreas;4
+26/09/2024;56;1,5;54;1,53;F;Sin Cr;;Sin Cr;IPILImumab,NIVOLUmab,NIVOLUmab,NIVOLUmab,NIVOLUmab;Nivolumab + Ipilimumab;#N/D;Melanoma maligno del miembro inferior, incluida la cadera;1
+26/09/2024;69;1,66;64;1,73;M;Sin Cr;;Sin Cr;OXALIplatino;CAPEOX;INF,XELOX;Tumor maligno del colon, parte no especificada;3
+26/09/2024;71;1,57;65,5;1,73;M;Sin Cr;;Sin Cr;CABAzitaxel;Cabazitaxel-PROSELICA;#N/D;Tumor maligno de la prostata;7
+26/09/2024;66;1,55;55,6;1,57;F;Sin Cr;;Sin Cr;OXALIplatino;CAPEOX;#N/D;Tumor maligno del recto;3
+26/09/2024;71;1,6;52;1,53;F;Sin Cr;;Sin Cr;Bevacizumab,Fluorouracilo,Fluorouracilo,Folinato;Bevacizumab+Folinato+5FU;Beva,FOLFOX,INF,PLATINO,AJUSTE,AJUST,30%,90%;Tumor maligno del colon, parte no especificada;7
+26/09/2024;59;1,56;45;1,4;F;Sin Cr;;Sin Cr;OXALIplatino,OXALIplatino,OXALIplatino;CAPEOX;Capec,CAPEOX,INF,Oxali,PLATINO, SC,AJUSTE,AJUST,CREA,CREAT;Tumor maligno del recto;1
+26/09/2024;52;1,61;65;1,73;F;99,3;;Sin Cr;Bevacizumab,PACLItaxel,CARBOplatino;Bevacizumab-GOG218;#N/D;Tumor maligno del cuello del utero, sin otra especificacion;3
+26/09/2024;57;1,53;56;1,57;F;Sin Cr;;Sin Cr;Eribulina;ERIBULINA;#N/D;Tumor maligno de la mama, parte no especificada;3
+26/09/2024;50;1,52;54;1,54;F;Sin Cr;;Sin Cr;Bevacizumab,Fluorouracilo,Fluorouracilo,OXALIplatino,Folinato;Beva+FOLFOX6modif;Beva,FOLFOX,INF,MAYO ,TCH ,VIDE,CREA;Tumor maligno del recto;6
+26/09/2024;74;1,65;88;2,06;M;Sin Cr;;Sin Cr;CABAzitaxel;Cabazitaxel-PROSELICA;CABAzI,INF, SC,AUC;Tumor maligno de la prostata;1
+26/09/2024;77;1,61;49,5;1,49;M;Sin Cr;;Sin Cr;OXALIplatino;CAPEOX;#N/D;Tumor maligno del estomago, parte no especificada;5
+26/09/2024;41;1,75;65;1,78;M;Sin Cr;;Sin Cr;CETUximab,PACLItaxel;Pacli-Cetuxi;CETU,INF,PACLI, SC,VIDE;Tumor maligno de la glandula parotida;5
+27/09/2024;37;1,62;71;1,82;F;Sin Cr;;Sin Cr;Trastuzumab_Emtansina,Trastuzumab_Emtansina;Emilia; SC,AJUSTE,AJUST;Tumor maligno de la mama, parte no especificada;5
+27/09/2024;32;1,52;53,6;1,53;F;136,7;;Sin Cr;CARBOplatino,PACLItaxel,PACLItaxel,PEMBROlizumab;Keynote 522 - CARBOPLATINO/PACLITAXEL /PEMBROLIZUMAB; AC ,CARBO,INF,PACLI,PEMBRO,PLATINO, SC,TAXANO,AUC;Tumor maligno de la mama, parte no especificada;1
+27/09/2024;80;1,65;65;1,75;M;Sin Cr;;Sin Cr;Bevacizumab,OXALIplatino;BEVA+CAPEOX;#N/D;Tumor maligno del colon, parte no especificada;8
+27/09/2024;66;1,71;79;1,96;M;53,8;;Sin Cr;CARBOplatino,Etoposido;Etoposido+Carboplatino NE;CARBO,Etopo,PLATINO,XELOX;Tumor maligno del recto;2
+27/09/2024;75;1,67;36;1,26;M;Sin Cr;;Sin Cr;Atezolizumab,Bevacizumab;Atezo+ 1200mg, beva 15mg;#N/D;Carcinoma de vias biliares intrahepaticas;10
+27/09/2024;59;1,53;61;1,65;F;Sin Cr;;Sin Cr;Irinotecan,Fluorouracilo,Fluorouracilo,Folinato,NIVOLUmab,NIVOLUmab;FOLFIRI + nivolumab;FOLFIRI,NIVO;Tumor maligno del estomago, parte no especificada;6
+27/09/2024;58;1,74;52,1;1,57;M;Sin Cr;;Sin Cr;Fluorouracilo,Fluorouracilo,OXALIplatino,Folinato;FOLFOX6modif;#N/D;Tumor maligno del estomago, parte no especificada;7
+27/09/2024;67;1,65;65;1,75;M;Sin Cr;0,96;68,6;CARBOplatino,Pemetrexed,Pemetrexed;Pemetrexed+Carboplatino;CARBO,IFOSF,INF,Peme,PLATINO,AUC;Tumor maligno de los bronquios o del pulmon, parte no especificada;2
+27/09/2024;69;1,77;68;1,83;M;Sin Cr;;Sin Cr;DOCEtaxel;Docetaxel monoQT;#N/D;Tumor maligno de la prostata;3
+27/09/2024;56;1,5;39;1,28;F;Sin Cr;0,91;42,5;Bevacizumab,CARBOplatino,Pemetrexed;Beva+Pemetrexed+Carboplatino;Beva,CARBO,Peme,PLATINO, SC,AUC;Mesotelioma de la pleura;6
+27/09/2024;44;1,65;72;1,85;F;Sin Cr;0,73;111,8;Bevacizumab,CARBOplatino,PACLItaxel;Bevacizumab-GOG218;Beva,CARBO,INF,PACLI,PLATINO, SC,AJUSTE,AJUST,AUC,CREA,CREAT;Tumor maligno del ovario;4
+27/09/2024;56;1,53;59;1,62;F;Sin Cr;;Sin Cr;PEMBROlizumab,Pemetrexed;pembro+peme+carbo. Pulmon;CARBO,PEMBRO,Peme,PLATINO;Tumor maligno de los bronquios o del pulmon, parte no especificada;9
+27/09/2024;73;1,44;50;1,45;F;Sin Cr;;Sin Cr;DOXOrubicina_LIPOSOMAL;Doxo Liposomal Ovario;#N/D;Tumor maligno de la mama, parte no especificada;10
+27/09/2024;75;1,48;39;1,27;F;Sin Cr;;Sin Cr;Folinato,Fluorouracilo,Fluorouracilo;5FU/Leucovorin- Ady;#N/D;Tumor maligno del estomago, parte no especificada;15
+27/09/2024;67;1,51;50;1,47;F;67,3;;Sin Cr;CARBOplatino,PACLItaxel,PACLItaxel;Pacli+carbogineco;#N/D;Tumor maligno del ovario;2
+27/09/2024;61;1,57;58;1,62;F;Sin Cr;;Sin Cr;GEMcitabina,Paclitaxel LIGADO a ALBUMINA;Gemcitabina+NAB-Pacli;GEMci,Nab-pacli,Nab-pacli,PACLI, SC,CREA,CREAT;Tumor maligno de la mama, parte no especificada;5
+27/09/2024;60;1,53;53;1,53;F;Sin Cr;;Sin Cr;CICLOfosfamida,DOXOrubicina;AC; AC , GC ,INF,40%,100%;Tumor maligno de la mama, parte no especificada;3
+27/09/2024;57;1,52;51;1,49;F;96,1;;Sin Cr;CARBOplatino,PACLItaxel;Pacli+carbogineco;#N/D;Tumor maligno del ovario;6
+27/09/2024;56;1,58;55;1,57;F;76,8;;Sin Cr;CARBOplatino,PACLItaxel,PACLItaxel;Pacli+carboRTsemanal;CARBO,CisplA,INF,PACLI,PLATINO, SC,semanal,AUC;Tumor maligno del cuello del utero, sin otra especificacion;1
+27/09/2024;56;1,56;75;1,86;F;Sin Cr;;Sin Cr;DOXOrubicina,Ciclofosfamida;AC-DosisDensas;#N/D;Tumor maligno de la mama, parte no especificada;1
+27/09/2024;51;1,6;78;1,91;F;Sin Cr;;Sin Cr;PEMBROlizumab;Pembrolizumab mantenimiento;Capec,PEMBRO,CREA,CREAT;Tumor maligno de la mama, parte no especificada;3
+27/09/2024;46;1,54;73;1,82;F;Sin Cr;;Sin Cr;Irinotecan,Fluorouracilo,Fluorouracilo;FOLFIRI;FOLFIRI,PANItU;Tumor maligno del colon, parte no especificada;2
+27/09/2024;54;1,62;72;1,84;M;Sin Cr;;Sin Cr;NIVOLUmab,NIVOLUmab;NIVOLUmab-Monoterapia;NIVO,VIDE,CREA,CREAT;Tumor maligno del recto;7
+27/09/2024;39;null;null;null;M;Sin Cr;;Sin Cr;Bleomicina sulfato;BEP;#N/D;Tumor maligno del retroperitoneo;2
+27/09/2024;67;1,57;44;1,39;M;Sin Cr;;Sin Cr;IFOSfamida,Mesna,DOXOrubicina;MAI;#N/D;Tumor maligno del tejido conjuntivo y tejido blando del abdomen;1
+28/09/2024;29;1,6;71;1,82;M;Sin Cr;;Sin Cr;CISplatino,Etoposido,Bleomicina sulfato;BEP;#N/D;Tumor maligno de glandula endocrina no especificada;1
+28/09/2024;76;1,73;51;1,55;M;Sin Cr;;Sin Cr;Folinato,Fluorouracilo,Irinotecan,OXALIplatino,OXALIplatino,Fluorouracilo;FOLFIRINOX;#N/D;Tumor maligno del pancreas, parte no especificada;1
+28/09/2024;73;1,5;62;1,65;F;Sin Cr;0,71;69,1;CARBOplatino,PACLItaxel;Pacli+carboCUP;CARBO,INF,PACLI,PLATINO,TAXOL;Tumor maligno del endometrio;1
+28/09/2024;57;1,68;61;1,7;F;Sin Cr;;Sin Cr;Folinato,Fluorouracilo,OXALIplatino,Fluorouracilo,NIVOLUmab,NIVOLUmab;FOLFOX6modif+ Nivolumab;FOLFOX,INF,NIVO,Oxali,PLATINO, SC,BOLO ,AJUST,5%,75%,CREA,CREAT;Tumor maligno del estomago, parte no especificada;6
+28/09/2024;63;1,68;75;1,9;M;Sin Cr;;Sin Cr;Bevacizumab;BEVA+CAPE;Capec,CAPEOX,INF,MAYO ,PLATINO, RT ,XELOX;Tumor maligno del colon, parte no especificada;2
+28/09/2024;44;1,45;54;1,52;F;Sin Cr;;Sin Cr;Ciclofosfamida,DOXOrubicina;AC-DosisDensas; AC ,CICLOF,CisplA,INF,PLATINO,TC ,VIDE,10%,5%,95%;Tumor maligno de la mama, parte no especificada;3
+28/09/2024;70;1,58;57;1,6;F;Sin Cr;;Sin Cr;OXALIplatino;CAPEOX;CAPEOX,VIDE,XELOX,CREA,CREAT;Tumor maligno del colon, parte no especificada;2
+28/09/2024;73;1,58;66;1,74;F;Sin Cr;;Sin Cr;GEMcitabina,Paclitaxel LIGADO a ALBUMINA;Gemcitabina+NAB-Pacli;GEMci,PACLI,AJUSTE,AJUST,CREA,CREAT;Tumor maligno del pancreas, parte no especificada;1
+28/09/2024;43;1,61;50;1,5;F;Sin Cr;;Sin Cr;Dacarbazina;DACARBAZINA;INF,IPILI,NIVO;Melanoma maligno de piel, sitio no especificado;1
+28/09/2024;84;1,55;55;1,56;M;Sin Cr;;Sin Cr;NIVOLUmab,NIVOLUmab;NIVOLUmab-Monoterapia;#N/D;Tumor maligno del estomago, parte no especificada;7
+28/09/2024;74;1,55;49;1,47;F;Sin Cr;;Sin Cr;Bevacizumab;Bevacizumab monoagente;Beva,CARBO,MAYO ,Peme,PLATINO,80%;Mesotelioma de la pleura;1
+28/09/2024;72;1,55;47;1,43;F;Sin Cr;;Sin Cr;Bevacizumab,Fluorouracilo,Fluorouracilo,OXALIplatino,OXALIplatino,Folinato;Beva+FOLFOX6modif;Beva,FOLFOX,AJUSTE,AJUST,5%,25%;Tumor maligno del colon, parte no especificada;3
+28/09/2024;71;1,44;61;1,62;F;Sin Cr;;Sin Cr;Bevacizumab;Bevacizumab monoagente;Beva,monoagente,VIDE;Tumor maligno del ovario;9
+28/09/2024;51;1,55;74;1,84;F;Sin Cr;0,32;243;Pemetrexed,CARBOplatino,PEMBROlizumab;pembro+peme+carbo. Pulmon;CARBO,PEMBRO,Peme,PLATINO,5%,95%;Tumor maligno de los bronquios o del pulmon, parte no especificada;1
+28/09/2024;43;1,64;55;1,59;F;Sin Cr;;Sin Cr;TRAStuzumab;Trastuzumab IV;TrastU;Tumor maligno de la mama, parte no especificada;70
+28/09/2024;64;1,6;76;1,88;F;Sin Cr;;Sin Cr;PACLItaxel;Paclitaxel semanal;INF,5%,75%,80%;Tumor maligno de la mama, parte no especificada;1
+28/09/2024;50;1,59;59;1,64;F;Sin Cr;;Sin Cr;CISplatino;Cisplatino semanal;CisplA,CONCURRENTE,INF,PLATINO, SC,BOLO ,CREA,CREAT;Tumor maligno de seno paranasal no especificado;1
+28/09/2024;48;1,54;61;1,65;F;Sin Cr;;Sin Cr;PACLItaxel;Paclitaxel semanal (x 4 semanas);#N/D;Tumor maligno de la mama, parte no especificada;1
+28/09/2024;41;1,55;60;1,64;F;Sin Cr;;Sin Cr;DOCEtaxel;Docetaxel monoQT;DOCE, GC ,INF, RT ,TAXANO,20%;Tumor maligno de la mama, parte no especificada;2
+28/09/2024;33;1,6;63;1,7;F;Sin Cr;;Sin Cr;PERTUzumab,TRAStuzumab;cleopatra trastuzu IV;PERTU, SC,TrastU,CREA,CREAT;Tumor maligno de la mama, parte no especificada;3
+28/09/2024;47;1,7;76;1,92;M;Sin Cr;;Sin Cr;OXALIplatino;CAPEOX;Capec,INF,Oxali,PLATINO, SC,XELOX,AJUSTE,AJUST,100%,CREA,CREAT;Tumor maligno del recto;3
+30/09/2024;30;1,78;114;2,42;M;Sin Cr;;Sin Cr;PEMBROlizumab,PEMBROlizumab,PEMBROlizumab;Pembrolizumab mantenimiento;INF,keynote,keynote 564,PEMBRO,VIDE;Tumor maligno del riñon, excepto de la pelvis renal;7
+30/09/2024;62;1,8;48;1,52;M;Sin Cr;;Sin Cr;Fluorouracilo,Fluorouracilo,OXALIplatino,OXALIplatino,Folinato;FOLFOX6modif;FOLFOX,INF;Tumor maligno del esofago, parte no especificada;1
+30/09/2024;28;1,71;90;2,11;F;Sin Cr;;Sin Cr;PACLItaxel,PACLItaxel,Ramucirumab;Ramucirumab-EH + PACLITAXEL SEMANAL;PACLI,RAMUC, SC;Tumor maligno del estomago, parte no especificada;3
+30/09/2024;34;1,54;77,2;1,88;F;Sin Cr;;Sin Cr;PACLItaxel,PACLItaxel;Paclitaxel semanal;#N/D;Tumor maligno de la mama, parte no especificada;1
+30/09/2024;36;1,62;59;1,65;F;Sin Cr;;Sin Cr;Ciclofosfamida,DOXOrubicina;AC; AC ,INF, SC,60%;Tumor maligno de la mama, parte no especificada;1
+30/09/2024;79;1,68;46;1,45;M;Sin Cr;;Sin Cr;DOCEtaxel,Fluorouracilo,Folinato,DOCEtaxel,OXALIplatino,OXALIplatino;FLOT;FLOT,80%,CREA;Tumor maligno del estomago, parte no especificada;1
+30/09/2024;70;1,75;53;1,59;M;Sin Cr;;Sin Cr;Durvalumab;Durvalumab- Pulmon cada 28 dias;CisplA,Durva,PLATINO,VIDE,80%,100%;Tumor maligno del lobulo superior, bronquio o pulmon;1
+30/09/2024;72;1,63;71,9;1,84;M;Sin Cr;;Sin Cr;CABAzitaxel;Cabazitaxel-PROSELICA;CABAzI,MAYO , SC,CREA,CREAT;Tumor maligno de la prostata;1
+30/09/2024;69;1,78;84;2,05;M;Sin Cr;;Sin Cr;NIVOLUmab,NIVOLUmab;Nivolumab - Renal;INF,IPILI,NIVO,VIDE;Melanoma maligno del tronco;1
+30/09/2024;64;1,61;67,8;1,77;M;Sin Cr;;Sin Cr;DOCEtaxel;Docetaxel monoQT;DOCE, RT , SC;Tumor maligno de la prostata;4
+30/09/2024;65;1,68;60;1,68;M;Sin Cr;;Sin Cr;Fluorouracilo,Fluorouracilo,OXALIplatino,OXALIplatino,Folinato;FOLFOX6modif;FOLFOX,INF;Tumor maligno del estomago, parte no especificada;1
+30/09/2024;70;1,43;53;1,5;F;Sin Cr;;Sin Cr;PEMBROlizumab;Pembrolizumab-Pulmon;#N/D;Tumor maligno de los bronquios o del pulmon, parte no especificada;13
+30/09/2024;59;1,52;59;1,62;F;Sin Cr;;Sin Cr;OXALIplatino;CAPEOX;Capec,INF,Oxali,PLATINO, RT ,XELOX,AJUSTE,AJUST;Tumor maligno del recto;4
+30/09/2024;66;1,53;88;2,01;F;Sin Cr;;Sin Cr;PERTUzumab,TRAStuzumab;cleopatra trastuzu IV;PERTU,TRAIN ,TrastU;Tumor maligno de la mama, parte no especificada;8
+30/09/2024;67;1,5;51;1,49;F;Sin Cr;;Sin Cr;CICLOfosfamida,DOXOrubicina;AC; AC ,CICLOF,DOXO,DOXO,INF, SC,20%,100%;Tumor maligno de la mama, parte no especificada;4
+30/09/2024;59;1,57;54;1,55;F;Sin Cr;;Sin Cr;Bevacizumab,Folinato,Fluorouracilo;GRAMONT + BEVACIZUMAB;#N/D;Tumor maligno secundario del peritoneo y del retroperitoneo;6
+30/09/2024;83;1,57;47;1,44;F;Sin Cr;0,65;48,7;CARBOplatino,Pemetrexed,PEMBROlizumab;pembro+peme+carbo. Pulmon;CARBO,EMA CO,PEMBRO;Tumor maligno de los bronquios o del pulmon, parte no especificada;1
+30/09/2024;68;1,49;49;1,45;F;Sin Cr;;Sin Cr;OXALIplatino,NIVOLUmab;CAPEOX +NIVOLUMAB;CAPEOX,INF,VIDE;Tumor maligno del estomago, parte no especificada;2
+30/09/2024;62;1,51;69;1,76;F;Sin Cr;;Sin Cr;CICLOfosfamida,DOXOrubicina;AC; AC ,40%,100%;Tumor maligno de la mama, parte no especificada;2
+30/09/2024;61;1,61;69;1,79;M;Sin Cr;;Sin Cr;Fluorouracilo,Fluorouracilo,Folinato,PANItumumab;Panitumumab+Folinato+5FU;PANItU,AJUSTE,AJUST,20%;Tumor maligno del colon, parte no especificada;1
+30/09/2024;58;1,65;58;1,64;F;Sin Cr;;Sin Cr;TRAStuzumab;Trastuzumab IV;#N/D;Tumor maligno de la mama, parte no especificada;7
+30/09/2024;56;1,61;54;1,57;F;Sin Cr;;Sin Cr;PEMBROlizumab;Pembrolizumab mantenimiento;CARBO,PEMBRO,VIDE;Tumor maligno del cuello del utero, sin otra especificacion;11
+30/09/2024;74;1,59;53;1,54;F;Sin Cr;;Sin Cr;OXALIplatino;CAPEOX;Capec,EMA CO,INF,Oxali,PLATINO,XELOX,100%,CREA,CREAT;Tumor maligno del recto;4
+30/09/2024;58;1,51;64;1,69;F;Sin Cr;;Sin Cr;PERTUzumab,TRAStuzumab;cleopatra trastuzu IV;Capec,cleopatra,Cleopatra,INF,PERTU,TrastU,VIDE,80%,90%;Tumor maligno de la mama, parte no especificada;3
+30/09/2024;44;1,55;56;1,58;F;Sin Cr;0,78;81,4;PACLItaxel,CARBOplatino,PEMBROlizumab;Pacli+carbo semanal;100%;Tumor maligno de la mama, parte no especificada;1
+30/09/2024;53;1,49;55;1,55;F;Sin Cr;;Sin Cr;PEMBROlizumab,PEMBROlizumab,PEMBROlizumab;Pembrolizumab mantenimiento;FOLFOX,INF,Oxali,PEMBRO,PLATINO,VIDE,CREA,CREAT;Tumor maligno del colon, parte no especificada;1
+30/09/2024;73;1,6;56;1,59;F;Sin Cr;;Sin Cr;Fluorouracilo,Fluorouracilo,Folinato,NIVOLUmab,NIVOLUmab;GRAMONT +TRASTUZUMAB IV;CAPEOX,NIVO,Oxali,PLATINO,VIDE;Tumor maligno del estomago, parte no especificada;1
+30/09/2024;76;1,4;55;1,52;F;Sin Cr;;Sin Cr;TRAStuzumab;Trastuzumab IV;#N/D;Tumor maligno del endometrio;1
+30/09/2024;72;1,6;79;1,92;F;Sin Cr;;Sin Cr;Bevacizumab,Atezolizumab;Atezo+ 1200mg, beva 15mg;Atezo,RICE,VIDE;Tumor maligno del higado, no especificado;9
+30/09/2024;71;1,6;60;1,66;F;Sin Cr;;Sin Cr;CARBOplatino,PACLItaxel,PACLItaxel;Pacli+carbogineco;CARBO,INF,MITOm,PACLI,PLATINO, RT ,TAXANO,TAXOL,AJUSTE,AJUST,20%;Tumor maligno del recto;4
+30/09/2024;66;1,47;63;1,66;F;Sin Cr;;Sin Cr;PACLItaxel;Paclitaxel semanal (x 4 semanas);50%;Tumor maligno de la mama, parte no especificada;2
+30/09/2024;69;1,55;41;1,33;F;49,8;;Sin Cr;PACLItaxel,CARBOplatino;Pacli+carbo semanal;CARBO,INF,PACLI,TC ,VIDE,AJUST,5%,25%;Tumor maligno del recto;8
+30/09/2024;61;1,54;67;1,74;F;Sin Cr;;Sin Cr;PERTUzumab,TRAStuzumab;cleopatra trastuzu IV; CAP ;Tumor maligno de la mama, parte no especificada;8
+30/09/2024;57;1,56;39;1,3;F;Sin Cr;;Sin Cr;Pemetrexed,Pemetrexed;Pemetrexed mantenimiento;Peme,PLATINO,AJUSTE,AJUST,10%;Tumor maligno de los bronquios o del pulmon, parte no especificada;6
+30/09/2024;58;1,49;65;1,69;F;Sin Cr;;Sin Cr;PACLItaxel,PACLItaxel,TRAStuzumab;TH-(21); GC ,PACLI,TrastU;Tumor maligno de la mama, parte no especificada;3
+30/09/2024;54;1,67;79,6;1,96;F;Sin Cr;;Sin Cr;TRAStuzumab;Trastuzumab IV; AC , GC ,INF,TC ,TrastU;Tumor maligno de la mama, parte no especificada;8
+30/09/2024;53;1,63;79;1,94;F;Sin Cr;;Sin Cr;PEMBROlizumab;Pembrolizumab-Pulmon;PEMBRO;Tumor maligno de la mama, parte no especificada;1
+30/09/2024;49;1,53;55;1,56;F;Sin Cr;;Sin Cr;Trastuzumab_Emtansina;Emilia;INF,TrastU,CREA,CREAT;Tumor maligno de la mama, parte no especificada;1
+30/09/2024;50;1,52;51;1,49;F;Sin Cr;;Sin Cr;TRAStuzumab;Trastuzumab IV; SC,TrastU,CREA,CREAT;Tumor maligno de la mama, parte no especificada;83
+30/09/2024;38;1,64;67;1,77;F;Sin Cr;;Sin Cr;DOXOrubicina,Ciclofosfamida,PEMBROlizumab;AC+IO;#N/D;Tumor maligno de la mama, parte no especificada;1
+30/09/2024;44;1,58;54;1,56;F;Sin Cr;;Sin Cr;PACLItaxel;Paclitaxel semanal;PACLI,semanal,TAXANO,AJUST,5%,15%;Tumor maligno de la mama, parte no especificada;1
+30/09/2024;51;1,51;58;1,6;F;Sin Cr;;Sin Cr;Ciclofosfamida,DOXOrubicina;AC-DosisDensas;#N/D;Tumor maligno de la mama, parte no especificada;1
+30/09/2024;43;1,67;69;1,81;F;Sin Cr;;Sin Cr;CICLOfosfamida,CICLOfosfamida,DOXOrubicina,DOXOrubicina,CICLOfosfamida,DOXOrubicina;AC-DosisDensas; AC ,INF,PACLI,semanal,TAXANO,30%,90%,100%;Tumor maligno de la mama, parte no especificada;7
+30/09/2024;42;1,55;54;1,55;F;Sin Cr;;Sin Cr;PACLItaxel;Paclitaxel seno;CARBO,INF,PACLI,PLATINO, RT , SC,TAXANO,AJUST,20%;Tumor maligno del endocervix;1
+30/09/2024;40;1,58;69;1,78;F;Sin Cr;;Sin Cr;Trastuzumab_Emtansina;Emilia;cleopatra,Cleopatra,DOCE,INF,60%;Tumor maligno de la mama, parte no especificada;2
+30/09/2024;59;1,51;47;1,42;F;Sin Cr;;Sin Cr;DOXOrubicina_LIPOSOMAL;Doxo Liposomal SK;#N/D;Tumor maligno de la mama, parte no especificada;1
+30/09/2024;68;1,63;70;1,81;M;Sin Cr;;Sin Cr;Fluorouracilo,Fluorouracilo,Folinato,OXALIplatino,Irinotecan;FOLFIRINOX;FOLFIRI,FOLFIRINOX,INF,Irino,80%,CREA;Tumor maligno de la cabeza del pancreas;5
+30/09/2024;63;1,65;90;2,08;M;Sin Cr;;Sin Cr;DOCEtaxel;Docetaxel monoQT;DOCE,INF;Tumor maligno de la prostata;4
+30/09/2024;60;1,76;93;2,16;M;Sin Cr;;Sin Cr;Fluorouracilo,Fluorouracilo,Folinato,Bevacizumab;GRAMONT + BEVACIZUMAB;Beva,FOLFOX,INF,MAYO ,VIDE;Tumor maligno del colon, parte no especificada;2
+30/09/2024;51;1,68;62;1,71;M;Sin Cr;;Sin Cr;Fluorouracilo,Fluorouracilo,OXALIplatino,Folinato;FOLFOX6modif;#N/D;Tumor maligno del recto;8
+30/09/2024;73;1,5;43;1,35;M;Sin Cr;;Sin Cr;Fluorouracilo,Fluorouracilo,OXALIplatino,OXALIplatino,Folinato,NIVOLUmab,NIVOLUmab;FOLFOX6modif+ Nivolumab;FOLFOX,INF,NIVO,70%;Tumor maligno del estomago, parte no especificada;1
+30/09/2024;70;1,78;85;2,07;M;Sin Cr;;Sin Cr;Fluorouracilo,Fluorouracilo,Folinato,PANItumumab;Panitumumab+GRAMONT;#N/D;Tumor maligno del colon, parte no especificada;12
+1/10/2024;21;1,61;51;1,52;F;140,5;;Sin Cr;Bleomicina sulfato,CISplatino,Etoposido;BEP; BEP ,Bleom,CisplA,Etopo,INF,PLATINO, SC;Tumor maligno del ovario;2
+1/10/2024;21;1,75;59;1,69;M;Sin Cr;;Sin Cr;OXALIplatino;CAPEOX;Capec,CAPEOX,Oxali,PLATINO;Tumor maligno del recto;1
+1/10/2024;34;1,69;57;1,64;M;Sin Cr;;Sin Cr;Bleomicina sulfato,CISplatino,Etoposido;BEP; BEP ,Bleom,INF,TC ,AJUSTE,AJUST,5%,25%;Tumor maligno del testiculo, no especificado;4
+1/10/2024;27;1,58;51,7;1,52;F;Sin Cr;;Sin Cr;Ciclofosfamida,DOXOrubicina,PEMBROlizumab;AC; AC ,AC IO,CICLOF,DOXO,DOXO,PEMBRO, SC,AJUST,10%;Tumor maligno de la mama, parte no especificada;1
+1/10/2024;30;1,63;80;1,95;F;Sin Cr;0,54;192,4;CARBOplatino,PACLItaxel,PEMBROlizumab;Keynote 522 - CARBOPLATINO/PACLITAXEL /PEMBROLIZUMAB;#N/D;Tumor maligno de la mama, parte no especificada;3
+1/10/2024;74;1,7;87;2,07;M;Sin Cr;;Sin Cr;DOCEtaxel;Docetaxel monoQT; AC ,DOCE,INF,TAXANO,AJUST;Tumor maligno de la prostata;9
+1/10/2024;75;1,67;79;1,95;M;Sin Cr;;Sin Cr;Atezolizumab,Bevacizumab;Atezo+ 1200mg, beva 15mg;Atezo,Beva;Tumor maligno del higado, no especificado;1
+1/10/2024;74;1,7;68;1,81;M;Sin Cr;;Sin Cr;DOCEtaxel;Docetaxel monoQT;DOCE,INF,5%;Tumor maligno de la prostata;2
+1/10/2024;68;1,69;62;1,71;M;Sin Cr;;Sin Cr;OXALIplatino;CAPEOX;Capec,INF,Oxali,PLATINO;Tumor maligno del recto;1
+1/10/2024;62;1,7;67;1,79;M;Sin Cr;;Sin Cr;PEMBROlizumab;Pembrolizumab-Melanoma (KN002-006);#N/D;Tumor maligno del riñon, excepto de la pelvis renal;1
+1/10/2024;59;1,68;65;1,76;F;91,4;;Sin Cr;CARBOplatino,DOCEtaxel,PERTUzumab,TRAStuzumab;TCH+pertuzumab;CARBO,DOCE,INF,PERTU,PLATINO,TrastU,5%,15%,50%,60%,AUC,CREA,CREAT;Tumor maligno de la mama, parte no especificada;5
+1/10/2024;61;1,53;50;1,48;F;Sin Cr;;Sin Cr;NIVOLUmab,NIVOLUmab;NIVOLUmab-Monoterapia;Capec,FOLFOX,NIVO,CREA;Tumor maligno del estomago, parte no especificada;8
+1/10/2024;69;1,61;70,4;1,81;F;Sin Cr;;Sin Cr;Fluorouracilo,Fluorouracilo,OXALIplatino,Folinato,PANItumumab;Panitumumab+Folfox6modif;Beva,Capec,FOLFIRI,FOLFOX,INF,PANItU,AJUST,30%,90%;Tumor maligno del colon, parte no especificada;1
+1/10/2024;70;1,63;49;1,49;F;Sin Cr;0,7;57,8;CARBOplatino,PEMBROlizumab,PEMBROlizumab,PEMBROlizumab,PEMBROlizumab,Pemetrexed,Pemetrexed,Pemetrexed;pembro+peme+carbo. Pulmon;CARBO,monoagente,PEMBRO,Peme,PLATINO,AJUSTE,AJUST,60%,AUC;Tumor maligno de los bronquios o del pulmon, parte no especificada;3
+1/10/2024;89;1,46;61;1,63;F;41,3;;Sin Cr;PACLItaxel,CARBOplatino;Pacli+carbo semanal (5 SEM);CARBO,INF,PACLI,PLATINO,semanal,TAXOL,AJUST,AUC;Tumor maligno del endometrio;1
+1/10/2024;44;1,59;58;1,62;F;Sin Cr;;Sin Cr;Folinato,Fluorouracilo,Irinotecan,Bevacizumab,Fluorouracilo;Bevacizumab+FOLFIRI;Beva,FOLFIRI,FOLFOX;Tumor maligno del abdomen;8
+1/10/2024;86;1,56;63;1,69;M;Sin Cr;;Sin Cr;PACLItaxel;Paclitaxel seno;INF,PACLI,AJUST;Sarcoma de kaposi de la piel;3
+1/10/2024;66;1,68;77;1,93;F;Sin Cr;;Sin Cr;PEMBROlizumab;Pembrolizumab mantenimiento;PEMBRO,50%;Tumor maligno de los bronquios o del pulmon, parte no especificada;14
+1/10/2024;40;1,52;81;1,92;F;Sin Cr;;Sin Cr;PACLItaxel;Paclitaxel semanal;CICLOF,DOXO,DOXO,PACLI, SC,TAXANO,AJUST,5%,15%;Tumor maligno de la mama, parte no especificada;1
+1/10/2024;68;1,55;55;1,56;F;Sin Cr;;Sin Cr;Trastuzumab_Emtansina;Emilia;#N/D;Tumor maligno de la mama, parte no especificada;5
+1/10/2024;72;1,58;45,5;1,42;F;Sin Cr;;Sin Cr;NIVOLUmab,NIVOLUmab;Nivolumab - Renal;NIVO,AJUST;Tumor maligno del riñon, excepto de la pelvis renal;1
+1/10/2024;47;1,65;55;1,59;F;71,9;;Sin Cr;CARBOplatino,PACLItaxel;Pacli+carbogineco;CARBO,GEMci,TAXOL,TC ;Tumor maligno de la mama, parte no especificada;1
+1/10/2024;76;1,39;42;1,3;F;Sin Cr;;Sin Cr;Folinato,Fluorouracilo,PANItumumab,Fluorouracilo;Panitumumab+GRAMONT;INF,PANItU, RT ,VIDE,AJUSTE,AJUST,10%,20%,CREA,CREAT;Tumor maligno del recto;19
+1/10/2024;66;1,55;61;1,66;F;Sin Cr;0,61;87,4;CARBOplatino,Pemetrexed,NIVOLUmab,NIVOLUmab;Nivolumab + CBP+ Pemetrexed;CARBO,INF,NIVO,PACLI,PLATINO,70%,AUC;Tumor maligno de los bronquios o del pulmon, parte no especificada;1
+1/10/2024;63;1,56;75;1,86;F;Sin Cr;;Sin Cr;NIVOLUmab;NIVOLUmab-Monoterapia;NIVO,AJUST;Tumor maligno del colon, parte no especificada;1
+1/10/2024;66;1,44;62;1,63;F;Sin Cr;;Sin Cr;Bevacizumab;Bevacizumab monoagente;#N/D;Tumor maligno del ovario;6
+1/10/2024;56;1,55;50;1,48;F;Sin Cr;;Sin Cr;Bevacizumab;Bevacizumab monoagente;Beva,CARBO,DOXO,DOXO,INF,MAYO ,PLATINO,TAXOL,AJUSTE,AJUST;Tumor maligno del ovario;1
+1/10/2024;56;1,5;58,6;1,6;F;Sin Cr;;Sin Cr;DOXOrubicina,CICLOfosfamida;AC;#N/D;Tumor maligno de la mama, parte no especificada;1
+1/10/2024;51;1,56;56;1,58;F;Sin Cr;;Sin Cr;Trastuzumab_Emtansina;Emilia;#N/D;Tumor maligno de la mama, parte no especificada;4
+1/10/2024;51;1,54;76;1,86;F;Sin Cr;;Sin Cr;PERTUzumab,TRAStuzumab;cleopatra trastuzu IV;PERTU,TrastU;Tumor maligno de la mama, parte no especificada;7
+1/10/2024;51;1,54;49;1,46;F;80,4;;Sin Cr;CARBOplatino,PACLItaxel,Bevacizumab;ICON7;Beva,CARBO,INF,PACLI,PLATINO,TAXOL;Tumor maligno del ovario;1
+1/10/2024;47;1,63;68;1,78;F;102,3;;Sin Cr;CARBOplatino,PACLItaxel,CARBOplatino;Pacli+carboCUP;CARBO,MAYO ,PACLI,PLATINO;Tumor maligno del ovario;9
+1/10/2024;46;1,54;60;1,64;F;Sin Cr;;Sin Cr;PACLItaxel;Paclitaxel semanal; AC ,PACLI,TAXANO,100%;Tumor maligno de la mama, parte no especificada;1
+1/10/2024;52;1,5;54;1,53;F;Sin Cr;;Sin Cr;Bevacizumab,Folinato,Fluorouracilo,Fluorouracilo,Bevacizumab,Fluorouracilo,Fluorouracilo,Folinato;Bevacizumab+Folinato+5FU;Beva,FLUORO,Folin,INF;Tumor maligno del colon, parte no especificada;1
+1/10/2024;40;1,5;44;1,37;F;65,8;;Sin Cr;CARBOplatino,PACLItaxel,PERTUzumab,TRAStuzumab;TRAIN-2/semanal; AC ,CARBO,INF,PACLI,PERTU,PLATINO,TRAIN ,TrastU,10%,AUC;Tumor maligno de la mama, parte no especificada;5
+1/10/2024;77;1,65;71;1,83;M;Sin Cr;;Sin Cr;DOXOrubicina_LIPOSOMAL;Doxo Liposomal SK;#N/D;Sarcoma de kaposi de la piel;6
+1/10/2024;83;1,7;61;1,7;M;Sin Cr;;Sin Cr;PEMBROlizumab;Pembrolizumab-Pulmon;INF,PEMBRO, RT ;Tumor maligno de la piel del cuero cabelludo y del cuello;1
+1/10/2024;63;1,65;60;1,67;F;Sin Cr;;Sin Cr;NIVOLUmab,NIVOLUmab;Nivo monot Melanoma;IPILI,monoagente,NIVO,PERTU, RT ;Melanoma maligno de las otras partes y las no especificadas de la cara;1
+1/10/2024;56;1,69;62;1,71;M;Sin Cr;;Sin Cr;Irinotecan,Fluorouracilo,Fluorouracilo,Folinato;FOLFIRI;#N/D;Tumor maligno del estomago, parte no especificada;1
+1/10/2024;66;1,71;59,5;1,68;M;Sin Cr;;Sin Cr;Folinato,CETUximab,Fluorouracilo,OXALIplatino,OXALIplatino,Fluorouracilo;Cetuximab-semanal+Folfox6modifC1;CETU,FOLFOX,Oxali,PLATINO,AJUSTE,AJUST,20%;Tumor maligno del colon, parte no especificada;5
+1/10/2024;48;1,83;120;2,51;M;Sin Cr;;Sin Cr;Bevacizumab;Bevacizumab monoagente;#N/D;Tumor maligno del colon, parte no especificada;3
+1/10/2024;39;1,75;71;1,87;F;Sin Cr;;Sin Cr;Folinato,Fluorouracilo,OXALIplatino,Fluorouracilo;FOLFOX6modif;FOLFOX,AJUST,5%,15%,CREA,CREAT;Tumor maligno del colon, parte no especificada;6
+1/10/2024;56;1,68;73;1,87;M;Sin Cr;;Sin Cr;OXALIplatino;CAPEOX;TC ,5%;Tumor maligno del colon, parte no especificada;1
+2/10/2024;29;1,5;54,4;1,54;F;Sin Cr;0,92;77,5;CARBOplatino,DOCEtaxel,PERTUzumab,TRAStuzumab;TCH+pertuzumab;#N/D;Tumor maligno de la mama, parte no especificada;1
+2/10/2024;32;1,51;48,5;1,45;F;Sin Cr;;Sin Cr;Bevacizumab,PEMBROlizumab;Bevacizumab-PEMBROLIZUMAB;#N/D;Tumor maligno de exocervix;17
+2/10/2024;34;1,63;50,6;1,52;F;Sin Cr;;Sin Cr;TRAStuzumab;Trastuzumab IV;#N/D;Tumor maligno de la mama, parte no especificada;21
+2/10/2024;31;1,67;65;1,75;F;Sin Cr;;Sin Cr;PACLItaxel;Paclitaxel semanal (x 4 semanas);#N/D;Tumor maligno de la mama, parte no especificada;1
+2/10/2024;29;1,49;53;1,51;F;Sin Cr;;Sin Cr;DOCEtaxel,CICLOfosfamida;Tcseno;INF,TC ,10%,100%;Tumor maligno de la mama, parte no especificada;2
+2/10/2024;34;1,67;67;1,78;F;Sin Cr;0,71;118,1;DOCEtaxel,PERTUzumab,TRAStuzumab,CARBOplatino;CLEOPATRA;INF;Tumor maligno de la mama, parte no especificada;3
+2/10/2024;40;1,81;83;2,05;M;Sin Cr;;Sin Cr;OXALIplatino;CAPEOX;Capec,INF,Oxali,PLATINO, SC,XELOX,100%;Tumor maligno del recto;3
+2/10/2024;38;1,63;61,8;1,69;F;Sin Cr;;Sin Cr;PACLItaxel,PACLItaxel;Paclitaxel semanal;PACLI, SC,CREA,CREAT;Tumor maligno de la mama, parte no especificada;1
+2/10/2024;28;1,57;75;1,86;F;Sin Cr;0,59;168,1;CARBOplatino,PACLItaxel,PEMBROlizumab;Keynote 522 - CARBOPLATINO/PACLITAXEL /PEMBROLIZUMAB; AC ,CARBO,INF,PACLI,PEMBRO,PLATINO, SC,semanal,50%,100%,AUC;Tumor maligno de la mama, parte no especificada;1
+2/10/2024;70;1,71;64,8;1,76;M;Sin Cr;;Sin Cr;Irinotecan;XELIRI;Beva,FOLFOX,INF,MAYO ,PLATINO,VIDE,XELIRI,XELIRI,Suspend;Tumor maligno del colon, parte no especificada;4
+2/10/2024;78;1,71;50;1,53;M;Sin Cr;;Sin Cr;Bevacizumab,Atezolizumab;Atezo+ 1200mg, beva 15mg;Atezo,VIDE,AJUST;Tumor maligno de los bronquios o del pulmon, parte no especificada;1
+2/10/2024;77;1,55;58;1,61;M;Sin Cr;;Sin Cr;Atezolizumab,Bevacizumab;Atezo+ 1200mg, beva 15mg;Atezo,Beva,RICE,VIDE,AJUST,20%,70%,Suspend;Tumor maligno del higado, no especificado;4
+2/10/2024;74;1,71;73;1,88;M;Sin Cr;;Sin Cr;Fluorouracilo,Fluorouracilo,OXALIplatino,OXALIplatino,Folinato;FOLFOX6modif;#N/D;Tumor maligno del colon, parte no especificada;5
+2/10/2024;71;1,59;51;1,51;M;Sin Cr;;Sin Cr;PACLItaxel,PACLItaxel,Ramucirumab;Ramucirumab-EH + PACLITAXEL SEMANAL;#N/D;Tumor maligno del estomago, parte no especificada;1
+2/10/2024;69;1,55;58;1,61;M;64,3;;Sin Cr;Bevacizumab,Pemetrexed;Bevacizumab+Pemetrexed;Beva,INF,Peme,PLATINO;Mesotelioma de la pleura;10
+2/10/2024;54;1,48;55;1,54;F;Sin Cr;;Sin Cr;TRAStuzumab,PERTUzumab,TRAStuzumab,TRAStuzumab,TRAStuzumab;cleopatra trastuzu IV;PERTU,TrastU,80%;Tumor maligno de la mama, parte no especificada;76
+2/10/2024;75;1,57;65;1,72;F;Sin Cr;;Sin Cr;Bevacizumab,Folinato,Fluorouracilo,Irinotecan,Fluorouracilo;Bevacizumab+FOLFIRI;Beva,Folin,INF,Irino, SC,AJUSTE,BOLO ,AJUST,20%,CREA,CREAT;Tumor maligno del colon, parte no especificada;5
+2/10/2024;84;1,52;65;1,7;F;Sin Cr;;Sin Cr;PEMBROlizumab;Pembrolizumab-Melanoma (KN002-006);PEMBRO,100%,CREA;Tumor maligno del colon, parte no especificada;1
+2/10/2024;82;1,52;67;1,73;F;Sin Cr;;Sin Cr;Bevacizumab;AVEX;AVEX,Beva,Capec,INF,Suspend;Tumor maligno del colon, parte no especificada;3
+2/10/2024;57;1,55;59;1,63;F;Sin Cr;;Sin Cr;TRAStuzumab,PERTUzumab;cleopatra trastuzu IV; CAP ,INF,PERTU,TAXANO,TrastU,100%;Tumor maligno de la mama, parte no especificada;1
+2/10/2024;63;1,6;61;1,67;F;Sin Cr;0,66;84;Bevacizumab,DOXOrubicina_LIPOSOMAL,CARBOplatino;CALYPSO+BEVA;#N/D;Tumor maligno del ovario;6
+2/10/2024;52;1,55;68,5;1,76;F;Sin Cr;;Sin Cr;NIVOLUmab,NIVOLUmab;Nivo monot Melanoma;INF,NIVO,TC ;Melanoma maligno de piel, sitio no especificado;3
+2/10/2024;50;1,5;48;1,44;F;Sin Cr;;Sin Cr;PEMBROlizumab;Pembrolizumab-Pulmon;INF,PEMBRO;Tumor maligno del cuello del utero, sin otra especificacion;6
+2/10/2024;83;1,45;49;1,44;F;Sin Cr;;Sin Cr;PERTUzumab,TRAStuzumab;cleopatra trastuzu IV;#N/D;Tumor maligno de la mama, parte no especificada;5
+2/10/2024;46;1,49;37;1,24;F;Sin Cr;;Sin Cr;Bevacizumab,PEMBROlizumab;Bevacizumab-PEMBROLIZUMAB;#N/D;Tumor maligno del endocervix;1
+2/10/2024;77;1,55;60;1,64;F;Sin Cr;;Sin Cr;PERTUzumab,TRAStuzumab;cleopatra trastuzu IV;PERTU, SC,TrastU;Tumor maligno de la mama, parte no especificada;18
+2/10/2024;49;1,87;87;2,13;M;Sin Cr;;Sin Cr;Bleomicina sulfato,CISplatino,Etoposido;BEP;#N/D;Tumor maligno del testiculo, no especificado;2
+2/10/2024;50;1,6;65;1,73;F;Sin Cr;0,63;109,6;DOCEtaxel,TRAStuzumab,PERTUzumab,CARBOplatino;TCHP (1);#N/D;Tumor maligno de la mama, parte no especificada;1
+2/10/2024;39;1,57;67;1,75;F;Sin Cr;;Sin Cr;CICLOfosfamida,DOXOrubicina;AC-DosisDensas; AC ,INF,semanal,TAXANO,40%;Tumor maligno de la mama, parte no especificada;1
+2/10/2024;43;1,59;51,3;1,52;F;Sin Cr;;Sin Cr;CICLOfosfamida,DOXOrubicina,PEMBROlizumab;AC-TP;#N/D;Tumor maligno de la mama, parte no especificada;3
+2/10/2024;59;1,52;43;1,36;F;Sin Cr;;Sin Cr;GEMcitabina,DOCEtaxel;Docetaxel+gemcitabina;DOCE,Eribu,GEMci, SC,Trabe,VIDE,100%;Tumor maligno del retroperitoneo;1
+2/10/2024;67;1,62;54;1,57;F;Sin Cr;;Sin Cr;PERTUzumab,TRAStuzumab;cleopatra trastuzu IV;DOCE,INF,PERTU,TrastU,VIDE,30%;Tumor maligno de la mama, parte no especificada;1
+2/10/2024;61;1,48;65,7;1,7;F;51,1;;Sin Cr;CARBOplatino,GEMcitabina;bevacizumab + gemcitabina + Carboplatino Ovario;CARBO,GEMci,INF,PLATINO, SC,AJUST,10%,AUC;Tumor maligno del ovario;1
+2/10/2024;55;1,51;61;1,64;F;Sin Cr;;Sin Cr;Bevacizumab,Folinato,Fluorouracilo,Irinotecan,Fluorouracilo;Bevacizumab+FOLFIRI;Beva,FLUORO,FOLFIRI,Folin,INF,Irino, SC,AJUSTE,AJUST,5%,15%,30%;Tumor maligno del colon, parte no especificada;11
+2/10/2024;59;1,52;59;1,62;F;Sin Cr;;Sin Cr;NIVOLUmab,NIVOLUmab;NIVOLUmab-Monoterapia;#N/D;Melanoma maligno de piel, sitio no especificado;42
+2/10/2024;53;1,54;55;1,56;F;74,3;;Sin Cr;CARBOplatino,DOXOrubicina_LIPOSOMAL;CALYPSO;Beva,CARBO,DOXO,DOXO,Doxo Lipo,PLATINO,TAXANO,TAXOL,VIDE,supende;Tumor maligno del ovario;1
+2/10/2024;42;1,6;58;1,63;F;Sin Cr;;Sin Cr;CISplatino,Etoposido;Etoposido+Cisplatino SCLC ADY-PRI2;CisplA,PLATINO,VIDE,5%,95%;Tumor maligno de glandula endocrina no especificada;1
+2/10/2024;80;1,46;61;1,63;F;Sin Cr;;Sin Cr;DOXOrubicina,CICLOfosfamida;AC;#N/D;Tumor maligno de la mama, parte no especificada;1
+2/10/2024;75;1,43;67,6;1,71;F;Sin Cr;;Sin Cr;PEMBROlizumab;Pembrolizumab mantenimiento;#N/D;Tumor maligno del colon, parte no especificada;21
+2/10/2024;73;1,5;44;1,37;F;Sin Cr;;Sin Cr;GEMcitabina;Gemcitabina PB-3W;#N/D;Tumor maligno de la cabeza del pancreas;1
+2/10/2024;73;1,52;54;1,54;F;Sin Cr;;Sin Cr;TRAStuzumab;Trastuzumab IV;#N/D;Tumor maligno de la mama, parte no especificada;4
+2/10/2024;67;1,57;70;1,79;F;Sin Cr;;Sin Cr;Irinotecan,Fluorouracilo,Fluorouracilo,Folinato;FOLFIRI;Beva,FOLFIRI,XELOX;Tumor maligno del recto;1
+2/10/2024;79;1,83;91;2,16;M;Sin Cr;;Sin Cr;Bevacizumab,Fluorouracilo,Fluorouracilo,Folinato;GRAMONT + BEVACIZUMAB;GRAMONT,PLATINO,VIDE,AJUST;Tumor maligno del colon, parte no especificada;7
+2/10/2024;81;1,72;74;1,9;M;51,8;;Sin Cr;Pemetrexed,Pemetrexed;Pemetrexed mantenimiento;CARBO,INF,Peme,PLATINO;Mesotelioma de la pleura;2
+2/10/2024;74;1,57;56;1,59;M;Sin Cr;;Sin Cr;Folinato,Fluorouracilo,Fluorouracilo;5FU/Leucovorin- Ady;FOLFOX,INF,VIDE,100%,Suspend;Tumor maligno del estomago, parte no especificada;1
+2/10/2024;63;1,56;51;1,5;F;65,3;;Sin Cr;CARBOplatino,PACLItaxel;Pacli+carboCUP;CARBO,INF;Tumor maligno del endometrio;1
+2/10/2024;61;1,6;63;1,7;F;Sin Cr;;Sin Cr;DOCEtaxel,Ciclofosfamida,CICLOfosfamida;Tcseno;INF,TC ;Tumor maligno de la mama, parte no especificada;1
+2/10/2024;65;1,58;96;2,13;F;Sin Cr;;Sin Cr;OXALIplatino;CAPEOX;#N/D;Tumor maligno del recto;4
+2/10/2024;59;1,61;83;1,98;F;Sin Cr;1,08;73,5;Bevacizumab,CARBOplatino,GEMcitabina;bevacizumab + gemcitabina + Carboplatino Ovario;#N/D;Tumor maligno del ovario;4
+2/10/2024;56;1,5;78;1,87;F;Sin Cr;;Sin Cr;PACLItaxel;Paclitaxel semanal; AC ,INF,semanal,TAXANO,80%,100%;Tumor maligno de la mama, parte no especificada;4
+2/10/2024;56;1,6;50,6;1,51;F;Sin Cr;;Sin Cr;PEMBROlizumab,CISplatino,Fluorouracilo;5FU+ Cisplatino;#N/D;Tumor maligno de la cara dorsal de la lengua;1
+2/10/2024;53;1,55;50;1,48;F;Sin Cr;;Sin Cr;DOXOrubicina_LIPOSOMAL;Doxo Liposomal SK;DOXO,DOXO,IFOSF, SC,AJUST,10%;Tumor maligno del endometrio;1
+2/10/2024;53;1,61;64;1,72;F;Sin Cr;;Sin Cr;PEMBROlizumab;Pembrolizumab mantenimiento;#N/D;Tumor maligno de la mama, parte no especificada;1
+2/10/2024;50;1,5;56;1,56;F;88,8;;Sin Cr;PEMBROlizumab,CARBOplatino,PACLItaxel;Pacli+carbo semanal;#N/D;Tumor maligno de la mama, parte no especificada;2
+2/10/2024;51;1,58;62;1,68;F;Sin Cr;0,74;88;CARBOplatino,PACLItaxel,PACLItaxel,PERTUzumab,TRAStuzumab;TRAIN-2 (C1);#N/D;Tumor maligno de la mama, parte no especificada;1
+2/10/2024;49;1,53;55;1,56;F;Sin Cr;;Sin Cr;TRAStuzumab,PERTUzumab;cleopatra trastuzu IV;#N/D;Tumor maligno de la mama, parte no especificada;1
+2/10/2024;48;1,59;65;1,73;F;Sin Cr;;Sin Cr;Trastuzumab_Emtansina,Trastuzumab_Emtansina;Emilia; AC , CAP , GC ,PACLI, RT ,TrastU,40%,100%;Tumor maligno de la mama, parte no especificada;1
+2/10/2024;48;1,52;60;1,63;F;Sin Cr;;Sin Cr;CICLOfosfamida,DOXOrubicina;AC-DosisDensas; AC ,CICLOF,DOXO,DOXO,INF,PACLI, SC,semanal,TAXANO,30%,100%;Tumor maligno de la mama, parte no especificada;1
+2/10/2024;49;1,63;82;1,97;F;Sin Cr;;Sin Cr;Bevacizumab;Bevacizumab monoagente;Beva,semanal,CREA,CREAT;Tumor maligno del ovario;1
+2/10/2024;47;1,56;67;1,75;F;Sin Cr;;Sin Cr;Fluorouracilo,Folinato,DOCEtaxel,OXALIplatino,OXALIplatino,DOCEtaxel,DOCEtaxel,DOCEtaxel;FLOT;FLOT;Tumor maligno del estomago, parte no especificada;1
+2/10/2024;43;1,51;59;1,61;F;Sin Cr;0,64;105,6;CARBOplatino,PACLItaxel,PEMBROlizumab;Keynote 522 - CARBOPLATINO/PACLITAXEL /PEMBROLIZUMAB;CARBO,INF,PACLI,PEMBRO,PLATINO,30%;Tumor maligno de la mama, parte no especificada;4
+2/10/2024;53;1,61;62,6;1,7;F;Sin Cr;;Sin Cr;DOXOrubicina_LIPOSOMAL;Doxo Liposomal SK;DOXO,DOXO,Doxo Lipo, SC,Trabe,5%,55%;Tumor maligno del retroperitoneo;1
+2/10/2024;44;1,51;72;1,8;F;Sin Cr;;Sin Cr;CISplatino;Cisplatino semanal;#N/D;Tumor maligno de exocervix;1
+2/10/2024;43;1,6;64;1,72;F;Sin Cr;;Sin Cr;Trastuzumab_Emtansina;Emilia;VIDE,AJUSTE,AJUST,100%;Tumor maligno de la mama, parte no especificada;1
+2/10/2024;40;1,53;65;1,71;F;Sin Cr;;Sin Cr;CICLOfosfamida,DOXOrubicina;AC; AC ,CICLOF,DOXO,DOXO, SC;Tumor maligno de la mama, parte no especificada;1
+2/10/2024;44;1,45;56;1,55;F;Sin Cr;;Sin Cr;PACLItaxel,PERTUzumab,TRAStuzumab;PERTU-PACLI-TRASTU 2;PACLI,PERTU,TAXANO,TrastU;Tumor maligno de la mama, parte no especificada;1
+2/10/2024;59;1,65;65;1,75;F;Sin Cr;;Sin Cr;PEMBROlizumab;Carcinoma Renal- Pembrolizumab + axatinib (6 semanas);PEMBRO;Tumor maligno del riñon, excepto de la pelvis renal;23
+2/10/2024;61;1,69;79;1,96;M;Sin Cr;;Sin Cr;Fluorouracilo,Fluorouracilo,OXALIplatino,OXALIplatino,Folinato;FOLFOX6modif;Capec,FOLFOX,MAYO ,Oxali,PLATINO,AJUSTE,AJUST,20%;Tumor maligno del colon, parte no especificada;2
+2/10/2024;63;1,7;69;1,82;M;Sin Cr;;Sin Cr;OXALIplatino;CAPEOX;Capec,XELOX;Tumor maligno del recto;3
+2/10/2024;59;1,75;60;1,7;M;Sin Cr;0,76;88,8;Pemetrexed,CARBOplatino,NIVOLUmab;Nivolumab + CBP+ Pemetrexed;CARBO,INF,NIVO,Peme;Tumor maligno de los bronquios o del pulmon, parte no especificada;1
+2/10/2024;51;1,8;81;2,02;M;Sin Cr;;Sin Cr;PEMBROlizumab;Pembrolizumab-Pulmon;INF,PEMBRO;Tumor maligno del riñon, excepto de la pelvis renal;2
+2/10/2024;45;1,75;70;1,85;M;Sin Cr;;Sin Cr;Folinato,Folinato,Fluorouracilo,Fluorouracilo,Bevacizumab,Bevacizumab,Fluorouracilo,Fluorouracilo,Folinato,Fluorouracilo,Bevacizumab,Fluorouracilo;Bevacizumab+Folinato+5FU;#N/D;Tumor maligno del colon, parte no especificada;2
+2/10/2024;43;1,65;85;2,02;M;98,7;;Sin Cr;CARBOplatino;Carboplatino-monoT;CARBO,INF,PLATINO,AUC;Tumor maligno del testiculo, no especificado;1
+2/10/2024;43;1,71;50;1,53;M;Sin Cr;;Sin Cr;Fluorouracilo,Fluorouracilo,Folinato,PANItumumab;Panitumumab+Folinato+5FU;PANItU,100%;Tumor maligno del colon, parte no especificada;1
+2/10/2024;62;1,72;66;1,78;M;Sin Cr;;Sin Cr;CABAzitaxel;Cabazitaxel-PROSELICA;CABAzI,DOCE;Tumor maligno de la prostata;9
+2/10/2024;59;1,69;74,7;1,9;F;Sin Cr;;Sin Cr;Folinato,Fluorouracilo,PANItumumab,Fluorouracilo;Panitumumab+Folinato+5FU;Folin,INF,BOLO ;Tumor maligno del colon, parte no especificada;1
+2/10/2024;59;1,73;96;2,19;M;Sin Cr;1,93;56;CARBOplatino,GEMcitabina;Gemcitabina+Carboplatino semanal;Avelu,CARBO,GEMci,PLATINO, SC,AUC;Tumor maligno del riñon, excepto de la pelvis renal;1
+2/10/2024;56;1,62;52;1,54;M;Sin Cr;;Sin Cr;Irinotecan;Irinotecan- Monoterapia;FLOT,Irino,monoagente;Tumor maligno del estomago, parte no especificada;4
+2/10/2024;72;1,6;45;1,41;M;Sin Cr;;Sin Cr;NIVOLUmab,NIVOLUmab;NIVOLUmab-Monoterapia;CONCURRENTE,MAYO ,NIVO,PLATINO,100%,CREA,CREAT;Tumor maligno de la pared posterior de la orofaringe;1
+3/10/2024;57;1,82;79;2;M;Sin Cr;;Sin Cr;CISplatino;Cisplatino+RT;#N/D;Tumor maligno de la orofaringe, parte no especificada;1
+3/10/2024;35;1,53;51;1,49;F;Sin Cr;;Sin Cr;CISplatino;Cisplatino semanal;CisplA,INF,PLATINO;Tumor maligno del cuello del utero, sin otra especificacion;1
+3/10/2024;25;1,55;45;1,4;F;Sin Cr;;Sin Cr;DOXOrubicina_LIPOSOMAL;Doxo Liposomal SK;DOXO,DOXO, SC,AJUSTE,AJUST,CREA,CREAT;Tumor maligno de la mama, parte no especificada;10
+3/10/2024;27;1,65;79;1,94;F;Sin Cr;;Sin Cr;Bevacizumab,GEMcitabina;OCEANS;Beva,GEMci,Suspend;Tumor maligno del ovario;11
+3/10/2024;32;1,59;75;1,87;F;Sin Cr;0,64;149,4;CARBOplatino,GEMcitabina;Gemcitabina+Carboplatino semanal;CARBO,GEMci,PLATINO, SC,AJUST,5%,85%,AUC,CREA,CREAT;Tumor maligno de la mama, parte no especificada;6
+3/10/2024;68;1,67;69;1,81;M;Sin Cr;;Sin Cr;NIVOLUmab,NIVOLUmab;NIVOLUmab-Monoterapia;#N/D;Tumor maligno del riñon, excepto de la pelvis renal;1
+3/10/2024;62;1,74;77;1,95;M;Sin Cr;;Sin Cr;Folinato,Fluorouracilo,OXALIplatino,Fluorouracilo;FOLFOX6modif;Beva,FLUORO,FOLFOX,VIDE;Tumor maligno del colon, parte no especificada;2
+3/10/2024;77;1,73;85;2,05;M;Sin Cr;;Sin Cr;PEMBROlizumab;Carcinoma Renal- Pembrolizumab + axatinib (3 semanas);PEMBRO,CREA,CREAT;Tumor maligno del riñon, excepto de la pelvis renal;9
+3/10/2024;66;1,56;49,8;1,48;M;Sin Cr;1,37;37,4;Pemetrexed,Pemetrexed,CARBOplatino;Pemetrexed+Carboplatino;#N/D;Tumor maligno de los bronquios o del pulmon, parte no especificada;1
+3/10/2024;75;1,63;58;1,63;M;Sin Cr;;Sin Cr;CISplatino,Pemetrexed;Pemetrexed+Cisplatino;CONCURRENTE;Tumor maligno de los bronquios o del pulmon, parte no especificada;1
+3/10/2024;73;1,63;49;1,49;M;Sin Cr;;Sin Cr;Bevacizumab,Fluorouracilo,Fluorouracilo,OXALIplatino,Folinato;Beva+FOLFOX6modif;#N/D;Tumor maligno del colon, parte no especificada;4
+3/10/2024;72;1,7;75;1,91;M;Sin Cr;;Sin Cr;PEMBROlizumab;Carcinoma Renal- Pembrolizumab + axatinib (6 semanas);#N/D;Tumor maligno del riñon, excepto de la pelvis renal;1
+3/10/2024;70;1,73;73,3;1,89;M;Sin Cr;;Sin Cr;Fluorouracilo,Fluorouracilo,OXALIplatino,OXALIplatino,Folinato;FOLFOX6modif;#N/D;Tumor maligno del estomago, parte no especificada;2
+3/10/2024;67;1,7;57;1,64;M;Sin Cr;;Sin Cr;DOCEtaxel;Docetaxel monoQT;DOCE,INF, SC;Tumor maligno de la prostata;1
+3/10/2024;81;1,65;59;1,66;F;Sin Cr;;Sin Cr;PEMBROlizumab;keynote 564;MAYO ,PEMBRO;Tumor maligno del colon, parte no especificada;3
+3/10/2024;68;1,6;58,3;1,63;F;Sin Cr;;Sin Cr;Folinato,Fluorouracilo,OXALIplatino,OXALIplatino,Fluorouracilo;FOLFOX6modif;FOLFOX,VIDE,AJUSTE,AJUST;Tumor maligno del estomago, parte no especificada;7
+3/10/2024;62;1,64;84;2;F;Sin Cr;;Sin Cr;OXALIplatino;CAPEOX;Capec,CONCURRENTE,INF,XELOX;Tumor maligno del recto;1
+3/10/2024;64;1,58;66;1,74;F;Sin Cr;;Sin Cr;NIVOLUmab,IPILImumab;Nivolumab + Ipilimumab;INF,IPILI,NIVO;Melanoma maligno de la oreja y del conducto auditivo externo;1
+3/10/2024;67;1,45;63;1,65;F;Sin Cr;;Sin Cr;CICLOfosfamida,DOXOrubicina,PEMBROlizumab;AC-TP; AC ,CARBO,CICLOF,DOXO,DOXO,INF,PACLI,PEMBRO,PLATINO,VIDE,90%;Tumor maligno de la mama, parte no especificada;4
+3/10/2024;83;1,45;53,6;1,51;F;Sin Cr;;Sin Cr;PEMBROlizumab;Carcinoma Renal- Pembrolizumab + axatinib (6 semanas);#N/D;Tumor maligno del riñon, excepto de la pelvis renal;1
+3/10/2024;61;1,55;65;1,71;F;Sin Cr;0,64;94,7;CARBOplatino,PACLItaxel;Pacli+carbogineco;CARBO,INF,PACLI,PLATINO;Tumor maligno del endometrio;3
+3/10/2024;72;1,61;76;1,89;F;Sin Cr;;Sin Cr;CISplatino;Cisplatino semanal;CisplA,INF,PLATINO,semanal;Tumor maligno de exocervix;1
+3/10/2024;51;1,56;60;1,64;F;Sin Cr;;Sin Cr;Irinotecan,Fluorouracilo,Fluorouracilo,Folinato;FOLFIRI;CAPEOX,FOLFIRI,INF;Tumor maligno del recto;1
+3/10/2024;72;1,65;69;1,8;F;Sin Cr;;Sin Cr;PEMBROlizumab;Carcinoma Renal- Pembrolizumab + axatinib (6 semanas);#N/D;Tumor maligno del riñon, excepto de la pelvis renal;1
+3/10/2024;51;1,61;72,7;1,84;F;Sin Cr;0,57;134;CARBOplatino,PACLItaxel;Pacli+carboCUP;#N/D;Tumor maligno del ovario;6
+3/10/2024;56;1,5;57;1,58;F;Sin Cr;;Sin Cr;Bevacizumab;Bevacizumab-mAurelia(21);Beva,CARBO,DOXO,DOXO,PACLI,PLATINO,TAXOL,CREA,CREAT;Tumor maligno del ovario;1
+3/10/2024;59;1,41;40;1,27;F;Sin Cr;;Sin Cr;PERTUzumab,TRAStuzumab;cleopatra trastuzu IV;PERTU,TrastU,5%,60%;Tumor maligno de la mama, parte no especificada;27
+3/10/2024;77;1,52;77,9;1,88;F;Sin Cr;;Sin Cr;CICLOfosfamida,DOXOrubicina;AC;#N/D;Tumor maligno de la mama, parte no especificada;1
+3/10/2024;76;1,59;69;1,78;F;54,3;;Sin Cr;CARBOplatino,PACLItaxel,PEMBROlizumab;Pacli+carbo semanal;CARBO,INF,PACLI,PEMBRO,40%,AUC;Tumor maligno de la mama, parte no especificada;1
+3/10/2024;75;1,54;48,3;1,45;F;Sin Cr;;Sin Cr;Fluorouracilo,Fluorouracilo,OXALIplatino,Folinato;FOLFOX6modif;FOLFOX,AJUSTE,AJUST,5%,25%;Tumor maligno del estomago, parte no especificada;5
+3/10/2024;72;1,56;49,5;1,48;F;Sin Cr;;Sin Cr;NIVOLUmab,NIVOLUmab,IPILImumab;NIVOLUMAB-IPILIMUMAB RENAL;#N/D;Tumor maligno del riñon, excepto de la pelvis renal;1
+3/10/2024;68;1,68;50,4;1,53;F;Sin Cr;;Sin Cr;Irinotecan,Fluorouracilo,Fluorouracilo,Folinato;FOLFIRI;#N/D;Tumor maligno del colon, parte no especificada;1
+3/10/2024;69;1,5;62;1,65;F;Sin Cr;;Sin Cr;CICLOfosfamida,DOXOrubicina;AC; AC ,INF,PACLI,semanal,VIDE,5%,25%,90%,100%;Tumor maligno de la mama, parte no especificada;4
+3/10/2024;83;1,65;67;1,78;M;Sin Cr;;Sin Cr;DOCEtaxel;Docetaxel monoQT;DOCE, SC,CREA,CREAT,Suspend;Tumor maligno de la prostata;1
+3/10/2024;71;1,67;70,3;1,83;M;Sin Cr;;Sin Cr;Fluorouracilo,Fluorouracilo,Folinato,PANItumumab;Panitumumab+GRAMONT;FLUORO,MAYO ,PANItU,PLATINO,AJUST,50%,Suspend;Tumor maligno del recto;11
+3/10/2024;63;1,57;83;1,97;F;Sin Cr;;Sin Cr;NIVOLUmab,NIVOLUmab;Nivolumab - Renal;NIVO,AJUST,CREA,CREAT;Tumor maligno del riñon, excepto de la pelvis renal;1
+3/10/2024;61;1,55;58,8;1,62;F;Sin Cr;;Sin Cr;PACLItaxel,TRAStuzumab;TH-(21);#N/D;Tumor maligno de la mama, parte no especificada;3
+3/10/2024;60;1,6;64;1,72;F;Sin Cr;;Sin Cr;OXALIplatino,OXALIplatino;CAPEOX;CAPEOX,INF;Tumor maligno del colon, parte no especificada;1
+3/10/2024;60;1,52;39;1,29;F;63,5;;Sin Cr;CARBOplatino,PACLItaxel;Pacli+carbogineco;CARBO,INF,TAXOL,AJUST;Tumor maligno del ovario;5
+3/10/2024;60;1,57;66;1,73;F;Sin Cr;;Sin Cr;Bevacizumab;Bevacizumab monoagente;#N/D;Tumor maligno del ovario;11
+3/10/2024;58;1,56;69,6;1,78;F;Sin Cr;;Sin Cr;Ciclofosfamida,DOXOrubicina;AC; AC ,CICLOF,DOXO,DOXO,INF, SC,TAXANO,CREA,CREAT;Tumor maligno de la mama, parte no especificada;1
+3/10/2024;54;1,49;64;1,68;F;Sin Cr;0,85;76,4;Bevacizumab,CARBOplatino,Bevacizumab,CARBOplatino,DOXOrubicina_LIPOSOMAL;Bevacizumab+CALYPSO;#N/D;Tumor maligno del ovario;1
+3/10/2024;54;1,57;68;1,76;F;Sin Cr;;Sin Cr;PEMBROlizumab;Pembrolizumab-Pulmon; GC ,INF,PEMBRO,TC ,100%,Suspend;Tumor maligno de la mama, parte no especificada;9
+3/10/2024;55;1,53;47;1,43;F;Sin Cr;;Sin Cr;OXALIplatino;CAPEOX;Capec,INF,Oxali,PLATINO, SC,VIDE,XELOX,CREA,CREAT;Tumor maligno del colon, parte no especificada;1
+3/10/2024;54;1,56;79;1,91;F;114,6;;Sin Cr;CISplatino;Cisplatino semanal;CisplA,DOCE,INF,PLATINO,semanal;Tumor maligno de exocervix;1
+3/10/2024;52;1,49;58;1,59;F;Sin Cr;;Sin Cr;MITOmicina C;MITOmicina CAPE;Capec,MITOm,NIGRO;Tumor maligno del recto;2
+3/10/2024;47;1,48;48;1,43;F;65,9;;Sin Cr;PERTUzumab,TRAStuzumab,CARBOplatino,DOCEtaxel,TRAStuzumab,TRAStuzumab,TRAStuzumab,TRAStuzumab,TRAStuzumab;TCHP (2);#N/D;Tumor maligno de la mama, parte no especificada;2
+3/10/2024;52;1,6;54;1,56;F;Sin Cr;;Sin Cr;Bevacizumab,Fluorouracilo,Fluorouracilo,OXALIplatino,OXALIplatino,Folinato;Beva+FOLFOX6modif;Beva,FOLFOX,INF,AJUSTE,AJUST;Tumor maligno del colon, parte no especificada;6
+3/10/2024;43;1,58;68;1,77;F;Sin Cr;;Sin Cr;DOXOrubicina,CICLOfosfamida;AC; AC ,INF,PACLI,10%,100%;Tumor maligno de la mama, parte no especificada;1
+3/10/2024;39;1,57;73;1,83;F;Sin Cr;0,59;147,5;CARBOplatino,PACLItaxel,PACLItaxel,PEMBROlizumab;Pacli+carbo semanal;#N/D;Tumor maligno de la mama, parte no especificada;3
+3/10/2024;39;1,56;65;1,72;F;Sin Cr;0,64;121,1;CARBOplatino,PACLItaxel,PERTUzumab,TRAStuzumab;TRAIN-2;CARBO,PACLI,PERTU,PLATINO, SC,TRAIN-2,TrastU,AJUST,AUC,CREA,CREAT;Tumor maligno de la mama, parte no especificada;7
+3/10/2024;51;1,55;53,3;1,54;M;Sin Cr;;Sin Cr;CISplatino,Etoposido;Etoposido+Cisplatino SCLC ADY-PRI2;CisplA,Etopo,INF,Irino,MAYO ,PLATINO,Temoz,AJUSTE,AJUST,20%;Tumor maligno del nervio olfatorio;3
+3/10/2024;66;1,7;60;1,69;M;73,4;;Sin Cr;CARBOplatino,PACLItaxel;Pacli+carbo semanal;CARBO,PACLI;Tumor maligno del ano, parte no especificada;3
+3/10/2024;53;1,74;72;1,88;M;Sin Cr;;Sin Cr;Fluorouracilo,Fluorouracilo,OXALIplatino,OXALIplatino,Folinato,PEMBROlizumab;Pembrolizumab+Folfox6modif;FOLFOX,INF,PEMBRO,5%,15%;Tumor maligno del estomago, parte no especificada;5
+3/10/2024;63;1,8;87;2,1;M;Sin Cr;;Sin Cr;Fluorouracilo,Fluorouracilo,Folinato,Bevacizumab;Bevacizumab+Folinato+5FU;Beva,FOLFOX,Oxali,PLATINO,VIDE,AJUSTE,AJUST,5%,15%,CREA,CREAT;Tumor maligno del colon, parte no especificada;6
+3/10/2024;57;1,75;57;1,65;M;Sin Cr;;Sin Cr;NIVOLUmab,NIVOLUmab;Nivo monot Melanoma;#N/D;Melanoma maligno del miembro inferior, incluida la cadera;1
+4/10/2024;37;1,65;62;1,7;F;Sin Cr;;Sin Cr;DOXOrubicina,Trabectedina;DoxoLiposomal+Trabectedina;#N/D;Tumor maligno del endometrio;4
+4/10/2024;36;1,66;118;2,42;M;Sin Cr;;Sin Cr;DOXOrubicina,IFOSfamida,Mesna;MAI;INF,MAI, RT ,5%,15%,100%;Tumor maligno del tejido conjuntivo y tejido blando del miembro inferior, incluida la cadera;1
+4/10/2024;63;1,65;49;1,49;M;Sin Cr;;Sin Cr;Fluorouracilo,Fluorouracilo,OXALIplatino,OXALIplatino,Folinato;FOLFOX6modif;FOLFOX,INF,VIDE;Tumor maligno del esofago, parte no especificada;1
+4/10/2024;75;2;52;1,51;M;Sin Cr;;Sin Cr;NIVOLUmab,IPILImumab;Nivolumab + Ipilimumab;VIDE;Tumor maligno de la conjuntiva;2
+4/10/2024;68;1,68;75;1,9;M;Sin Cr;;Sin Cr;Fluorouracilo,Folinato,Fluorouracilo,Bevacizumab;GRAMONT + BEVACIZUMAB;Beva,INF, SC,AJUSTE,BOLO ,AJUST,CREA,CREAT;Tumor maligno del colon, parte no especificada;11
+4/10/2024;57;1,51;42;1,34;F;Sin Cr;;Sin Cr;Fluorouracilo,Fluorouracilo,OXALIplatino,OXALIplatino,Folinato;FOLFOX6modif;#N/D;Tumor maligno del colon, parte no especificada;2
+4/10/2024;65;1,6;55;1,58;F;Sin Cr;;Sin Cr;Paclitaxel LIGADO a ALBUMINA,GEMcitabina;Gemcitabina+NAB-Pacli;GEMci,INF,PACLI,CREA,CREAT;Tumor maligno del pancreas, parte no especificada;1
+4/10/2024;66;1,56;71;1,8;F;Sin Cr;;Sin Cr;PEMBROlizumab;Pembrolizumab-uroterial;INF,PEMBRO,VIDE,CREA;Tumor maligno del endometrio;2
+4/10/2024;52;1,55;71;1,8;F;Sin Cr;0,54;136,6;CARBOplatino,DOCEtaxel,PERTUzumab,TRAStuzumab;TCHP (1);CARBO,DOCE,PERTU,PLATINO, SC,TrastU,60%,AUC;Tumor maligno de la mama, parte no especificada;2
+4/10/2024;78;1,55;47;1,43;F;Sin Cr;;Sin Cr;Durvalumab;Durvalumab- Pulmon cada 28 dias;Durva;Tumor maligno de los bronquios o del pulmon, parte no especificada;null
+4/10/2024;70;1,45;38;1,25;F;Sin Cr;0,83;37,8;CARBOplatino,PACLItaxel,PERTUzumab,TRAStuzumab;TCHP;CARBO,DOCE, GC ,INF,PACLI,PERTU,PLATINO, SC,semanal,TrastU,30%,60%,AUC,CREA,CREAT;Tumor maligno de la mama, parte no especificada;5
+4/10/2024;69;1,62;54;1,57;F;Sin Cr;;Sin Cr;Fluorouracilo,Fluorouracilo,Folinato,Bevacizumab;GRAMONT + BEVACIZUMAB;Beva,FOLFIRI,FOLFOX,VIDE,AJUST,20%,100%;Tumor maligno del colon, parte no especificada;1
+4/10/2024;65;1,52;51;1,49;F;Sin Cr;0,71;63,6;PEMBROlizumab,PACLItaxel,CARBOplatino;Keynote 522 - CARBOPLATINO/PACLITAXEL /PEMBROLIZUMAB;CARBO,INF,PACLI,PEMBRO,PLATINO,100%,AUC,CREA,CREAT;Tumor maligno de la mama, parte no especificada;1
+4/10/2024;69;1,61;70;1,8;M;Sin Cr;;Sin Cr;OXALIplatino,OXALIplatino;CAPEOX;Capec,INF,Oxali,PLATINO, SC,XELOX;Tumor maligno del recto;2
+4/10/2024;48;1,53;83;1,95;F;Sin Cr;;Sin Cr;MITOmicina C;MITOmicina CAPE;Capec,CONCURRENTE,INF,MITOm,NIGRO, SC,BOLO ,100%;Tumor maligno del recto;1
+4/10/2024;65;1,6;78;1,91;F;Sin Cr;;Sin Cr;NIVOLUmab,NIVOLUmab,NIVOLUmab,NIVOLUmab,NIVOLUmab;NIVOLUmab-Monoterapia;NIVO;Melanoma maligno del miembro superior, incluido el hombro;11
+4/10/2024;60;1,6;42;1,36;F;Sin Cr;;Sin Cr;Fluorouracilo,Fluorouracilo,OXALIplatino,OXALIplatino,Folinato,TRAStuzumab,Fluorouracilo,Fluorouracilo,Fluorouracilo;FOLFOX6modif+trastuzumba;FOLFOX,INF,RITU,TrastU;Tumor maligno del estomago, parte no especificada;1
+4/10/2024;51;1,5;52;1,5;F;107,1;;Sin Cr;CARBOplatino,PACLItaxel,PACLItaxel;Pacli+carboCUP;CARBO,PACLI,PLATINO;Tumor maligno del ovario;3
+4/10/2024;50;1,55;69,5;1,78;F;Sin Cr;;Sin Cr;Pemetrexed;Pemetrexed mantenimiento;Beva,GEMci,monoagente,PACLI,Peme,PLATINO,VIDE,AJUSTE,AJUST,Suspend;Tumor maligno del ovario;6
+4/10/2024;50;1,59;65;1,73;F;Sin Cr;;Sin Cr;OXALIplatino,OXALIplatino;CAPEOX;CAPEOX;Tumor maligno del recto;3
+4/10/2024;48;1,61;89;2,06;F;Sin Cr;;Sin Cr;Trastuzumab_Emtansina;Emilia;#N/D;Tumor maligno de la mama, parte no especificada;1
+4/10/2024;42;1,55;58,8;1,62;F;Sin Cr;;Sin Cr;PEMBROlizumab;Pembrolizumab-Pulmon;CARBO,INF,MAYO ,monoagente,PEMBRO,TAXOL,30%;Tumor maligno de la mama, parte no especificada;3
+4/10/2024;41;1,58;51;1,51;F;Sin Cr;;Sin Cr;CICLOfosfamida,DOXOrubicina;AC;CICLOF,DOXO,DOXO, SC;Tumor maligno de la mama, parte no especificada;3
+4/10/2024;70;1,7;50;1,53;M;Sin Cr;;Sin Cr;Fluorouracilo,Fluorouracilo,Folinato,NIVOLUmab,NIVOLUmab;GRAMONT +TRASTUZUMAB IV;FOLFOX,INF;Tumor maligno del estomago, parte no especificada;5
+4/10/2024;66;1,78;86;2,08;M;Sin Cr;;Sin Cr;DOCEtaxel;Docetaxel monoQT;DOCE;Tumor maligno de la prostata;6
+4/10/2024;57;1,64;63;1,71;F;Sin Cr;;Sin Cr;OXALIplatino,OXALIplatino;CAPEOX;Capec,Oxali,PLATINO;Tumor maligno del ciego;5
+4/10/2024;38;1,74;73;1,89;M;Sin Cr;;Sin Cr;Mesna,IFOSfamida;IFOSFAMIDA;CisplA,DOXO,DOXO,IFOSF,monoagente,PLATINO,VIDE,AJUSTE,AJUST,5%,25%,CREA,CREAT;Tumor maligno del tejido conjuntivo y tejido blando, de sitio no especificado;8
+5/10/2024;65;1,61;75;1,87;M;Sin Cr;;Sin Cr;Folinato,Fluorouracilo;5FU/Leucovorin- Ady;5FU,Capec,FLUORO,PLATINO,RICE, RT ,AJUSTE,AJUST,Suspend;Tumor maligno del colon, parte no especificada;2
+5/10/2024;74;1,62;61;1,68;M;Sin Cr;;Sin Cr;Fluorouracilo,Fluorouracilo,OXALIplatino,Folinato;FOLFOX6modif;FOLFOX,PLATINO,AJUST;Tumor maligno del colon, parte no especificada;1
+5/10/2024;61;1,62;48;1,47;F;Sin Cr;;Sin Cr;Bevacizumab,Fluorouracilo,Fluorouracilo,Folinato;Bevacizumab+Folinato+5FU;Beva,FOLFOX,PLATINO, RT ;Tumor maligno del colon, parte no especificada;8
+5/10/2024;80;1,53;53;1,53;F;Sin Cr;;Sin Cr;PEMBROlizumab;Carcinoma Renal- Pembrolizumab + axatinib (6 semanas);CARBO,MAYO ,PEMBRO,Peme,PLATINO,AJUST,20%,40%,80%;Tumor maligno de los bronquios o del pulmon, parte no especificada;1
+5/10/2024;57;1,62;56,4;1,61;F;Sin Cr;;Sin Cr;Trastuzumab_Emtansina;Emilia;CARBO,DOCE,INF,MAYO ,PERTU,PLATINO,TrastU,60%;Tumor maligno de la mama, parte no especificada;1
+5/10/2024;59;1,61;67;1,76;M;Sin Cr;;Sin Cr;DOCEtaxel,Fluorouracilo,Folinato,OXALIplatino;FLOT;FLOT,INF;Tumor maligno del estomago, parte no especificada;1
+6/10/2024;24;1,7;63;1,73;M;Sin Cr;;Sin Cr;DOXOrubicina,VinCRISTina,CICLOfosfamida,Mesna;VAdriaC;#N/D;Tumor maligno del tejido conjuntivo y tejido blando, de sitio no especificado;9
+6/10/2024;36;1,72;81;1,99;M;Sin Cr;;Sin Cr;DOXOrubicina,IFOSfamida,Mesna;MAI;INF,MAI, SC;Tumor maligno del tejido conjuntivo y tejido blando, de sitio no especificado;3
+6/10/2024;27;1,67;51;1,53;M;Sin Cr;;Sin Cr;Folinato,Fluorouracilo,OXALIplatino,PANItumumab,Fluorouracilo;Panitumumab+Folfox6modif;FOLFOX,INF,PANItU, RT ,TC ;Tumor maligno del recto;4
+6/10/2024;65;1,65;52;1,54;M;Sin Cr;;Sin Cr;Irinotecan;Irinotecan;CARBO,FOLFOX,INF,Irino,MAYO ,TAXANO,TAXOL,VIDE,AJUSTE,AJUST,20%,CREA,Suspend;Tumor maligno del estomago, parte no especificada;4
+6/10/2024;81;1,72;66,7;1,79;M;Sin Cr;;Sin Cr;PACLItaxel,Ramucirumab;Ramucirumab-EH + PACLITAXEL SEMANAL;FOLFOX,INF,PACLI,RAMUC, SC,VIDE,AJUST;Tumor maligno del estomago, parte no especificada;2
+6/10/2024;71;1,66;51;1,53;M;Sin Cr;;Sin Cr;Fluorouracilo,Fluorouracilo,OXALIplatino,Folinato;FOLFOX6modif;FOLFOX;Tumor maligno del estomago, parte no especificada;2
+6/10/2024;50;1,57;65;1,72;F;Sin Cr;;Sin Cr;PERTUzumab,TRAStuzumab;cleopatra trastuzu IV;CARBO,PACLI,PERTU,PLATINO, RT ,TrastU,20%;Tumor maligno de la mama, parte no especificada;10
+6/10/2024;44;1,56;50;1,49;F;Sin Cr;0,96;59;CARBOplatino,PACLItaxel,PACLItaxel;Pacli+carbo semanal;CARBO,NIGRO,PACLI,PLATINO,VIDE;Tumor maligno del recto;4
+6/10/2024;45;1,54;48,8;1,46;M;Sin Cr;;Sin Cr;Fluorouracilo,Fluorouracilo,OXALIplatino,Folinato;FOLFOX6modif;FOLFOX,INF, RT ,CREA,CREAT;Tumor maligno del recto;5
+7/10/2024;24;1,7;54;1,59;M;Sin Cr;;Sin Cr;CISplatino,IFOSfamida,Mesna,PACLItaxel;TIP;#N/D;Tumor maligno del testiculo, no especificado;2
+7/10/2024;35;1,62;77;1,9;F;Sin Cr;;Sin Cr;DOCEtaxel,PERTUzumab,TRAStuzumab;Cleopatra-C1;#N/D;Tumor maligno de la mama, parte no especificada;3
+7/10/2024;77;1,6;60;1,66;M;Sin Cr;;Sin Cr;Folinato,Fluorouracilo,Fluorouracilo;GRAMONT;INF,monoagente;Tumor maligno del estomago, parte no especificada;2
+7/10/2024;35;1,6;72;1,83;F;Sin Cr;;Sin Cr;CISplatino;Cisplatino semanal;#N/D;Tumor maligno del cuello del utero, sin otra especificacion;2
+7/10/2024;37;1,55;55;1,56;F;Sin Cr;;Sin Cr;OXALIplatino;CAPEOX;Capec,Oxali,PLATINO,AJUSTE,AJUST,5%,15%;Tumor maligno del colon, parte no especificada;null
+7/10/2024;29;1,62;55;1,58;F;Sin Cr;;Sin Cr;PEMBROlizumab,Pemetrexed;keynote 189;#N/D;Tumor maligno de los bronquios o del pulmon, parte no especificada;17
+7/10/2024;80;1,65;80;1,96;M;Sin Cr;;Sin Cr;NIVOLUmab,NIVOLUmab;NIVOLUmab-Monoterapia;#N/D;Tumor maligno del estomago, parte no especificada;17
+7/10/2024;77;1,57;49;1,47;M;Sin Cr;;Sin Cr;IPILImumab,NIVOLUmab;Nivolumab + Ipilimumab;INF,IPILI,NIVO,AJUSTE,AJUST;Melanoma maligno de las otras partes y las no especificadas de la cara;2
+7/10/2024;75;1,7;53;1,57;M;Sin Cr;;Sin Cr;Fluorouracilo,Fluorouracilo,Folinato,Bevacizumab,Irinotecan,Irinotecan,Irinotecan;Bevacizumab+FOLFIRI;5FU,Beva,Capec,CAPEOX,FOLFIRI,INF,PANItU,INFUSOR,CREA,CREAT,Suspend;Tumor maligno del colon, parte no especificada;6
+7/10/2024;74;1,66;57;1,63;M;37,6;;Sin Cr;CARBOplatino,PEMBROlizumab,Fluorouracilo;CF (carbo) 4d;CisplA,INF,monoagente,PLATINO,VIDE,AJUSTE,AJUST;Lesion de sitios contiguos del labio, de la cavidad bucal y de la faringe;4
+7/10/2024;73;1,62;70;1,81;M;Sin Cr;;Sin Cr;CABAzitaxel;Cabazitaxel-PROSELICA;CABAzI,DOCE, RT ,AUC;Tumor maligno de la prostata;17
+7/10/2024;73;1,74;68;1,82;M;Sin Cr;;Sin Cr;Bevacizumab,Fluorouracilo,Fluorouracilo,OXALIplatino,OXALIplatino,Folinato;Beva+FOLFOX6modif;FOLFOX,INF,PLATINO,80%;Tumor maligno del colon, parte no especificada;4
+7/10/2024;67;1,64;65;1,74;M;Sin Cr;;Sin Cr;Fluorouracilo,Fluorouracilo,OXALIplatino,Folinato;FOLFOX6modif;FOLFOX,INF,MAYO ;Tumor maligno del colon, parte no especificada;4
+7/10/2024;63;1,65;64;1,73;M;Sin Cr;;Sin Cr;OXALIplatino;CAPEOX;Capec,INF,Oxali,PLATINO,XELOX,AJUSTE,AJUST;Tumor maligno del recto;4
+7/10/2024;76;1,46;87;1,97;F;72,2;;Sin Cr;CARBOplatino,CARBOplatino,PACLItaxel,PERTUzumab,TRAStuzumab;TRAIN-2;CARBO,PACLI,PERTU,PLATINO,TRAIN-2,TrastU,5%,15%;Tumor maligno de la mama, parte no especificada;4
+7/10/2024;70;1,66;59;1,66;M;Sin Cr;;Sin Cr;DOCEtaxel;Docetaxel monoQT;DOCE, RT ;Tumor maligno de la prostata;3
+7/10/2024;69;1,66;64;1,73;M;Sin Cr;;Sin Cr;OXALIplatino;CAPEOX;INF,XELOX;Tumor maligno del colon, parte no especificada;4
+7/10/2024;64;1,59;82;1,96;F;Sin Cr;;Sin Cr;Durvalumab;Durvalumab- Pulmon cada 28 dias;CARBO,Durva,PACLI,PLATINO;Tumor maligno de los bronquios o del pulmon, parte no especificada;3
+7/10/2024;53;1,51;75;1,84;F;Sin Cr;;Sin Cr;PERTUzumab,PERTUzumab,TRAStuzumab,TRAStuzumab,TRAStuzumab,PERTUzumab,PERTUzumab,PERTUzumab;cleopatra trastuzu IV;PERTU, RT ,TrastU,50%;Tumor maligno de la mama, parte no especificada;6
+7/10/2024;72;1,75;96;2,2;M;Sin Cr;;Sin Cr;Avelumab;Avelumab;#N/D;Tumor maligno de la vejiga urinaria, parte no especificada;14
+7/10/2024;55;1,52;67;1,73;F;Sin Cr;;Sin Cr;PEMBROlizumab;Pembrolizumab-uroterial;#N/D;Tumor maligno de la mama, parte no especificada;3
+7/10/2024;71;1,55;46;1,42;F;Sin Cr;;Sin Cr;DOXOrubicina_LIPOSOMAL;Doxo Liposomal SK;Beva,CARBO,DOXO,DOXO,Doxo Lipo,PACLI,PLATINO, SC;Tumor maligno del ovario;5
+7/10/2024;79;1,52;70,8;1,79;F;Sin Cr;;Sin Cr;PEMBROlizumab;Pembrolizumab mantenimiento;#N/D;Tumor maligno de la mama, parte no especificada;8
+7/10/2024;40;1,65;61;1,69;F;118,1;;Sin Cr;CARBOplatino,PACLItaxel,PEMBROlizumab;Pacli+carbo semanal;CARBO,INF,PACLI,PEMBRO,PLATINO, SC,TC ;Tumor maligno de la mama, parte no especificada;3
+7/10/2024;67;1,43;53,7;1,51;F;Sin Cr;;Sin Cr;Fluorouracilo,Fluorouracilo,OXALIplatino,OXALIplatino,Folinato;FOLFOX6modif;FOLFOX,INF;Tumor maligno del colon, parte no especificada;2
+7/10/2024;62;1,49;58;1,59;F;Sin Cr;;Sin Cr;DOXOrubicina_LIPOSOMAL;Doxo Liposomal Ovario;#N/D;Tumor maligno del tejido conjuntivo y tejido blando, de sitio no especificado;4
+7/10/2024;59;1,61;67;1,76;F;Sin Cr;0,89;72;PACLItaxel,CARBOplatino,CARBOplatino,PACLItaxel,PACLItaxel,CARBOplatino,PACLItaxel;Pacli+carboCUP;#N/D;Tumor maligno del endometrio;1
+7/10/2024;55;1,53;62;1,66;F;Sin Cr;;Sin Cr;Trastuzumab_Emtansina;Emilia;TrastU,AJUSTE,AJUST,80%;Tumor maligno de la mama, parte no especificada;11
+7/10/2024;52;1,45;51;1,47;F;Sin Cr;;Sin Cr;CICLOfosfamida,DACTINomicina,Etoposido,Metotrexato,Metotrexato,VinCRISTina,Folinato;EMA-CO;EMA-CO,MAYO , SC;Tumor maligno de la placenta;6
+7/10/2024;52;1,56;74;1,84;F;Sin Cr;;Sin Cr;Fluorouracilo,Fluorouracilo,Folinato,Irinotecan;FOLFIRI;FOLFIRI,Irino,Oxali,PLATINO,XELOX;Tumor maligno del estomago, parte no especificada;1
+7/10/2024;47;1,63;65;1,74;F;Sin Cr;;Sin Cr;PACLItaxel;Paclitaxel semanal;INF,PACLI;Tumor maligno de la mama, parte no especificada;2
+7/10/2024;45;1,65;60;1,67;F;Sin Cr;;Sin Cr;PERTUzumab,TRAStuzumab;cleopatra trastuzu IV;#N/D;Tumor maligno de la mama, parte no especificada;16
+7/10/2024;45;1,55;55;1,56;F;Sin Cr;;Sin Cr;PEMBROlizumab,Bevacizumab;Bevacizumab-PEMBROLIZUMAB;Beva,CisplA,PACLI,PEMBRO,PLATINO;Tumor maligno del cuello del utero, sin otra especificacion;1
+7/10/2024;53;1,67;75;1,89;F;104,1;;Sin Cr;CARBOplatino,PACLItaxel;Pacli+carbogineco;CARBO,INF,MAYO ,TAXOL;Tumor maligno del ovario;5
+7/10/2024;41;1,55;54;1,55;F;Sin Cr;;Sin Cr;Trastuzumab_Emtansina;Emilia;#N/D;Tumor maligno de la mama, parte no especificada;12
+7/10/2024;39;1,58;66;1,74;F;Sin Cr;;Sin Cr;Trastuzumab_Emtansina,Trastuzumab_Emtansina;Emilia;#N/D;Tumor maligno de la mama, parte no especificada;6
+7/10/2024;55;1,54;79;1,9;F;97,9;;Sin Cr;CARBOplatino,PACLItaxel;Pacli+carboCUP;CARBO,INF,MAYO , RT ,TAXOL;Tumor maligno de la vulva, parte no especificada;2
+7/10/2024;83;1,7;61;1,7;M;Sin Cr;;Sin Cr;PEMBROlizumab;Pembrolizumab-Pulmon;INF,PEMBRO, RT ;Tumor maligno de la piel del cuero cabelludo y del cuello;2
+7/10/2024;60;1,64;64;1,73;F;Sin Cr;;Sin Cr;Bevacizumab;Bevacizumab-mAurelia(21);#N/D;Tumor maligno del ovario;30
+7/10/2024;57;1,58;64,5;1,72;F;64,5;;Sin Cr;CARBOplatino,DOCEtaxel,TRAStuzumab,PERTUzumab;TCHP (1);CARBO,DOCE,PERTU,PLATINO,TrastU;Tumor maligno de la mama, parte no especificada;3
+7/10/2024;44;1,7;53;1,57;M;Sin Cr;;Sin Cr;NIVOLUmab,OXALIplatino;CAPEOX +NIVOLUMAB;CAPEOX,FLOT,INF,NIVO,Oxali,PLATINO,AJUST,5%,25%,Suspend;Tumor maligno del estomago, parte no especificada;1
+7/10/2024;58;1,7;67;1,79;M;Sin Cr;;Sin Cr;Fluorouracilo,Fluorouracilo,OXALIplatino,Folinato,PEMBROlizumab;Pembrolizumab+Folfox6modif;FOLFOX,PEMBRO,PLATINO,AJUST;Tumor maligno del estomago, parte no especificada;3
+7/10/2024;56;1,7;73;1,88;M;Sin Cr;;Sin Cr;Bevacizumab,Folinato,Fluorouracilo,OXALIplatino,Fluorouracilo;Beva+FOLFOX6modif;Beva,FOLFOX,INF;Tumor maligno del colon, parte no especificada;5
+7/10/2024;56;1,72;60;1,69;M;Sin Cr;;Sin Cr;Fluorouracilo,Fluorouracilo,OXALIplatino,Folinato;FOLFOX6modif;FOLFOX;Tumor maligno del estomago, parte no especificada;6
+8/10/2024;29;1,61;73;1,85;F;Sin Cr;;Sin Cr;PACLItaxel,Ramucirumab;Ramucirumab-EH + PACLITAXEL SEMANAL;FOLFOX,INF,PACLI,RAMUC,TrastU;Tumor maligno del estomago, parte no especificada;6
+8/10/2024;37;1,54;53;1,53;F;109,2;;Sin Cr;CARBOplatino,PACLItaxel,PACLItaxel,PERTUzumab,TRAStuzumab;TRAIN-2 (D1-8);INF,TCHP ,TRAIN ,90%;Tumor maligno de la mama, parte no especificada;3
+8/10/2024;71;1,74;64;1,76;M;Sin Cr;;Sin Cr;Fluorouracilo,Fluorouracilo,Folinato,Bevacizumab;Bevacizumab+Folinato+5FU;FOLFOX,INF;Tumor maligno del recto;2
+8/10/2024;36;1,62;62;1,69;F;Sin Cr;;Sin Cr;PERTUzumab,TRAStuzumab;cleopatra trastuzu IV;PERTU,TrastU;Tumor maligno de la mama, parte no especificada;11
+8/10/2024;40;1,8;75;1,94;M;Sin Cr;;Sin Cr;OXALIplatino,OXALIplatino,OXALIplatino;CAPEOX;CAPOX;Tumor maligno del colon, parte no especificada;1
+8/10/2024;86;1,71;81,5;2;M;Sin Cr;;Sin Cr;PEMBROlizumab;Pembrolizumab-Pulmon;CARBO,INF,PEMBRO,Peme,PLATINO;Tumor maligno de la prostata;1
+8/10/2024;79;1,66;64;1,73;M;Sin Cr;;Sin Cr;DOCEtaxel;Docetaxel monoQT;#N/D;Tumor maligno de la prostata;6
+8/10/2024;76;1,75;65,5;1,78;M;Sin Cr;;Sin Cr;DOCEtaxel;Docetaxel monoQT;#N/D;Tumor maligno de la prostata;1
+8/10/2024;75;1,65;81;1,97;M;Sin Cr;;Sin Cr;DOCEtaxel;Docetaxel monoQT;#N/D;Tumor maligno de la prostata;3
+8/10/2024;76;1,65;78,2;1,93;M;Sin Cr;;Sin Cr;Avelumab;Avelumab;#N/D;Tumor maligno de la vejiga urinaria, parte no especificada;1
+8/10/2024;68;1,65;61,3;1,69;M;Sin Cr;;Sin Cr;PACLItaxel;Paclitaxel semanal (x 4 semanas);#N/D;Tumor maligno del riñon, excepto de la pelvis renal;1
+8/10/2024;82;1,4;44;1,34;F;Sin Cr;0,74;40,7;Pemetrexed,CARBOplatino;Pemetrexed+Carboplatino;CARBO,INF,Peme,PLATINO,TC ,AJUST,20%,100%,AUC;Mesotelioma de la pleura;2
+8/10/2024;65;1,47;49;1,44;F;Sin Cr;;Sin Cr;Bevacizumab,DOCEtaxel;Docetaxel + BEVA - PULMON;Beva,DOCE;Tumor maligno de los bronquios o del pulmon, parte no especificada;1
+8/10/2024;44;1,73;86;2,06;F;Sin Cr;;Sin Cr;Ciclofosfamida,DOXOrubicina;AC-DosisDensas; AC ,INF, SC,40%;Tumor maligno de la mama, parte no especificada;2
+8/10/2024;64;1,49;69;1,75;F;Sin Cr;;Sin Cr;PERTUzumab,TRAStuzumab;Cleopatra;cleopatra,Cleopatra,PACLI,PERTU,semanal,TrastU,10%,90%,Suspend;Tumor maligno de la mama, parte no especificada;1
+8/10/2024;61;1,68;61;1,7;F;Sin Cr;;Sin Cr;Irinotecan,Fluorouracilo,Fluorouracilo,Folinato;FOLFIRI;FLOT,FOLFIRI,Irino,PLATINO,Suspend;Tumor maligno del estomago, parte no especificada;1
+8/10/2024;47;1,64;71;1,83;F;Sin Cr;;Sin Cr;Ciclofosfamida,DOCEtaxel;Tcseno;#N/D;Tumor maligno de la mama, parte no especificada;3
+8/10/2024;67;1,45;41;1,3;F;65,4;;Sin Cr;CARBOplatino,PACLItaxel;Pacli+carbogineco;CARBO,MAYO ,PACLI,PLATINO,CREA,CREAT;Tumor maligno del cuello del utero, sin otra especificacion;3
+8/10/2024;63;1,53;57;1,59;F;Sin Cr;;Sin Cr;DOCEtaxel,Fluorouracilo,OXALIplatino,Folinato;FLOT;FLOT;Tumor maligno del estomago, parte no especificada;5
+8/10/2024;64;1,49;56;1,56;F;Sin Cr;0,61;82,4;Bevacizumab,CARBOplatino,GEMcitabina,PERTUzumab,TRAStuzumab;Trastuzumab+Gemcitabine+Carboplatin/ SENO;Beva,CARBO,GEMci,PERTU,PLATINO,TrastU,100%,AUC;Tumor maligno de la mama, parte no especificada;5
+8/10/2024;48;1,65;76;1,9;M;Sin Cr;;Sin Cr;PEMBROlizumab;Carcinoma Renal- Pembrolizumab + axatinib (6 semanas);#N/D;Tumor maligno del riñon, excepto de la pelvis renal;1
+8/10/2024;54;1,7;59;1,67;M;Sin Cr;;Sin Cr;DOCEtaxel;Docetaxel monoQT;DOCE,INF,AJUSTE,AJUST,80%,100%,CREA,CREAT;Tumor maligno de la prostata;2
+8/10/2024;59;1,52;54;1,54;F;Sin Cr;;Sin Cr;Bevacizumab,PEMBROlizumab;Bevacizumab-PEMBROLIZUMAB;CARBO,INF,PEMBRO,PLATINO,TAXANO,5%,60%,80%,95%,100%;Tumor maligno de exocervix;12
+8/10/2024;56;1,62;54;1,57;F;Sin Cr;;Sin Cr;Fluorouracilo,Fluorouracilo,Folinato,OXALIplatino,Irinotecan;FOLFIRINOX;FOLFIRI,FOLFIRINOX,INF,Irino,CREA,CREAT;Tumor maligno de la cabeza del pancreas;1
+8/10/2024;49;1,53;74;1,83;F;101,9;;Sin Cr;CARBOplatino,PACLItaxel,PEMBROlizumab;Pacli+carbogineco + Pembrolizumab;CARBO,PACLI,PEMBRO,PLATINO,CREA,CREAT;Tumor maligno de exocervix;5
+8/10/2024;63;1,53;58;1,6;F;Sin Cr;;Sin Cr;VinORELBina;Vinorelbine;Beva,GEMci,TAXANO,VinOR,Vinorelbine;Tumor maligno de los bronquios o del pulmon, parte no especificada;null
+8/10/2024;59;1,56;65;1,72;F;Sin Cr;;Sin Cr;PEMBROlizumab;Carcinoma Renal- Pembrolizumab + axatinib (6 semanas);PEMBRO;Tumor maligno del riñon, excepto de la pelvis renal;1
+8/10/2024;56;1,47;60,7;1,62;F;Sin Cr;;Sin Cr;PERTUzumab,TRAStuzumab;cleopatra trastuzu IV; AC ,INF,PERTU,TC ,TrastU,50%;Tumor maligno de la mama, parte no especificada;6
+8/10/2024;80;1,55;47;1,43;F;Sin Cr;;Sin Cr;PEMBROlizumab;PEMBROLIZUMAB;#N/D;Tumor maligno del estomago, parte no especificada;9
+8/10/2024;67;1,58;55;1,57;F;Sin Cr;0,73;64,9;CARBOplatino,Pemetrexed,Pemetrexed;Pemetrexed+Carboplatino;#N/D;Tumor maligno de los bronquios o del pulmon, parte no especificada;2
+8/10/2024;60;1,49;60;1,62;F;Sin Cr;;Sin Cr;DOXOrubicina,Ciclofosfamida;AC-DosisDensas;PLATINO,TAXANO,90%;Tumor maligno de la mama, parte no especificada;1
+8/10/2024;83;1,71;70;1,84;M;Sin Cr;;Sin Cr;Bevacizumab,OXALIplatino;BEVA+CAPEOX;Beva,Capec,INF,Oxali,PLATINO,Suspend;Tumor maligno de la prostata;1
+8/10/2024;40;1,6;67;1,76;F;Sin Cr;;Sin Cr;DOXOrubicina,Ciclofosfamida,CICLOfosfamida;AC-DosisDensas;INF,TAXANO,40%,90%;Tumor maligno de la mama, parte no especificada;3
+8/10/2024;63;1,56;56;1,58;F;Sin Cr;;Sin Cr;OXALIplatino;CAPEOX;#N/D;Tumor maligno del colon, parte no especificada;1
+8/10/2024;34;1,65;62,5;1,71;F;Sin Cr;1;78,2;CARBOplatino,PACLItaxel,Bevacizumab;GOG261;CisplA,GOG ,INF,PLATINO;Tumor maligno de exocervix;1
+8/10/2024;61;1,45;55;1,53;F;Sin Cr;;Sin Cr;Ciclofosfamida,DOXOrubicina;AC; AC ,INF,40%,100%;Tumor maligno de la mama, parte no especificada;4
+8/10/2024;60;1,56;75;1,86;F;Sin Cr;0,46;154;CARBOplatino,PACLItaxel,PEMBROlizumab;Pacli+carbogineco + Pembrolizumab;CARBO,INF,PACLI,PEMBRO,PLATINO,AUC,CREA,CREAT;Tumor maligno del endometrio;3
+8/10/2024;61;1,42;52,6;1,49;F;Sin Cr;;Sin Cr;Irinotecan,Fluorouracilo,Fluorouracilo,Folinato,Bevacizumab;Bevacizumab+FOLFIRI;Beva,Capec,FOLFIRI,Oxali,PLATINO,Suspend;Tumor maligno del colon, parte no especificada;1
+8/10/2024;59;1,5;63;1,67;F;71,7;;Sin Cr;PACLItaxel,CARBOplatino;Pacli+carboCUP;CARBO,INF,PACLI,PLATINO,CREA,CREAT;Tumor maligno del endometrio;1
+8/10/2024;57;1,7;59;1,67;F;Sin Cr;;Sin Cr;PEMBROlizumab;Pembrolizumab mantenimiento; GC ,keynote,PEMBRO,60%;Tumor maligno de la mama, parte no especificada;7
+8/10/2024;49;1,58;57;1,6;F;Sin Cr;;Sin Cr;Bevacizumab;Bevacizumab monoagente;Beva,CARBO,DOXO,DOXO,Doxo Lipo,PLATINO;Tumor maligno del ovario;1
+8/10/2024;48;1,69;59;1,67;F;Sin Cr;;Sin Cr;DOXOrubicina,IFOSfamida,IFOSfamida,Mesna;MAI;MAI,100%;Tumor maligno del tejido conjuntivo y tejido blando, de sitio no especificado;3
+8/10/2024;44;1,44;49;1,44;F;Sin Cr;;Sin Cr;PERTUzumab,TRAStuzumab;cleopatra trastuzu IV; AC , CAP ,CARBO,INF,PACLI,PERTU,TrastU,90%;Tumor maligno de la mama, parte no especificada;9
+8/10/2024;55;1,67;56;1,61;F;Sin Cr;;Sin Cr;PACLItaxel,TRAStuzumab,PERTUzumab;TCHP;INF,PACLI,PERTU,semanal,TAXANO,TrastU,70%;Tumor maligno de la mama, parte no especificada;1
+8/10/2024;51;1,4;70;1,73;F;Sin Cr;;Sin Cr;PACLItaxel;Paclitaxel semanal;PACLI,semanal,TAXANO,AJUSTE,AJUST,70%,80%,100%;Tumor maligno de la mama, parte no especificada;2
+8/10/2024;43;1,5;65;1,7;F;126,2;;Sin Cr;CARBOplatino,PACLItaxel,PEMBROlizumab,PACLItaxel;Pacli+carbo semanal;CARBO,INF,PACLI,PEMBRO,PLATINO,AUC;Tumor maligno de la mama, parte no especificada;1
+8/10/2024;43;1,61;74;1,86;F;Sin Cr;;Sin Cr;CISplatino,DOCEtaxel,Fluorouracilo;DCFmodif (ajustado) 1;#N/D;Tumor maligno del estomago, parte no especificada;7
+8/10/2024;49;1,56;44;1,38;F;Sin Cr;;Sin Cr;Ciclofosfamida,CICLOfosfamida,PEMBROlizumab,DOXOrubicina;AC; AC ,PEMBRO,80%,100%;Tumor maligno de la mama, parte no especificada;3
+8/10/2024;63;1,8;55;1,64;M;Sin Cr;;Sin Cr;PACLItaxel,Ramucirumab;Ramucirumab-EH + PACLITAXEL SEMANAL;FOLFOX,INF,NIVO,PACLI,RAMUC,20%;Tumor maligno del estomago, parte no especificada;1
+8/10/2024;43;1,75;70;1,85;M;Sin Cr;;Sin Cr;OXALIplatino;CAPEOX;CAPEOX,INF;Tumor maligno del estomago, parte no especificada;6
+8/10/2024;59;1,66;78;1,93;M;Sin Cr;;Sin Cr;DOCEtaxel;Docetaxel monoQT;DOCE,INF,TCH ;Tumor maligno de la prostata;1
+8/10/2024;57;1,7;60;1,69;M;Sin Cr;;Sin Cr;NIVOLUmab,NIVOLUmab;Nivo monot Melanoma;5FU,CETU,CisplA,INF,NIVO,PEMBRO,PLATINO,5%,15%;Tumor maligno de la cabeza, cara y cuello;2
+9/10/2024;37;1,68;61;1,7;M;Sin Cr;;Sin Cr;Bleomicina sulfato,CISplatino,Etoposido;BEP; BEP ;Tumor maligno del testiculo descendido;2
+9/10/2024;76;1,51;51;1,49;F;Sin Cr;;Sin Cr;Irinotecan,Fluorouracilo,Fluorouracilo,Folinato,Bevacizumab;Bevacizumab+FOLFIRI;Beva,FOLFIRI,FOLFOX,INF,AJUSTE,AJUST,Suspend;Tumor maligno del colon, parte no especificada;5
+9/10/2024;28;1,52;43;1,36;F;Sin Cr;;Sin Cr;Ciclofosfamida,DOXOrubicina;AC; AC ,INF,semanal,TAXANO,20%,100%;Tumor maligno de la mama, parte no especificada;4
+9/10/2024;36;1,6;59;1,64;F;Sin Cr;;Sin Cr;Bevacizumab;Bevacizumab-mAurelia(28);Beva;Lesion de sitios contiguos del encefalo y otras partes del sistema nervioso central;4
+9/10/2024;77;1,67;60,2;1,68;M;Sin Cr;;Sin Cr;DOCEtaxel;Docetaxel monoQT;#N/D;Tumor maligno de la prostata;1
+9/10/2024;72;1,68;76;1,91;M;Sin Cr;;Sin Cr;CISplatino,Etoposido;Etoposido+Cisplatino PULMON;#N/D;Tumor maligno de los bronquios o del pulmon, parte no especificada;1
+9/10/2024;70;1,63;59;1,65;M;Sin Cr;;Sin Cr;Fluorouracilo,Fluorouracilo,Folinato;5FU/Leucovorin- Ady;EMA CO,FOLFOX,INF;Tumor maligno del recto;1
+9/10/2024;73;1,6;57;1,61;M;Sin Cr;;Sin Cr;DOCEtaxel;Docetaxel monoQT;DOCE, SC,CREA,CREAT;Tumor maligno de la prostata;4
+9/10/2024;68;1,62;48;1,47;M;Sin Cr;;Sin Cr;NIVOLUmab,NIVOLUmab;Nivo monot Melanoma;INF,IPILI,MAYO ,NIVO, RT ;Melanoma maligno de piel, sitio no especificado;6
+9/10/2024;76;1,57;62;1,68;F;Sin Cr;;Sin Cr;OXALIplatino;CAPEOX;Beva,CAPEOX,INF;Tumor maligno del recto;1
+9/10/2024;72;1,7;53;1,57;F;33,2;;Sin Cr;CARBOplatino,PACLItaxel;Pacli+carbogineco;CARBO,PACLI,TAXOL;Tumor maligno del ovario;4
+9/10/2024;57;1,55;61;1,66;F;Sin Cr;;Sin Cr;PACLItaxel;Paclitaxel semanal (x 4 semanas);INF,PACLI,semanal,TAXANO,AJUST,10%,20%,80%;Tumor maligno de la mama, parte no especificada;3
+9/10/2024;81;1,66;82;1,99;M;Sin Cr;;Sin Cr;DOCEtaxel;Docetaxel monoQT;DOCE,TAXANO;Tumor maligno de la prostata;3
+9/10/2024;58;1,71;70;1,84;M;Sin Cr;;Sin Cr;OXALIplatino;CAPEOX;CAPEOX,MAYO ;Tumor maligno del colon, parte no especificada;5
+9/10/2024;85;1,62;58;1,63;M;Sin Cr;;Sin Cr;OXALIplatino,OXALIplatino,OXALIplatino,OXALIplatino,OXALIplatino,OXALIplatino;CAPEOX;#N/D;Tumor maligno de la prostata;1
+9/10/2024;41;1,42;44;1,35;F;87,2;;Sin Cr;CARBOplatino,DOCEtaxel,PERTUzumab,TRAStuzumab;TCH+pertuzumab;INF, SC,TCHP ,AJUSTE,AJUST,90%,100%;Tumor maligno de la mama, parte no especificada;6
+9/10/2024;53;1,53;46;1,41;F;63,8;;Sin Cr;DOCEtaxel,TRAStuzumab,PERTUzumab,CARBOplatino;TCH+pertuzumab;CARBO,DOCE,INF,PERTU,PLATINO,TrastU,40%,80%,100%;Tumor maligno de la mama, parte no especificada;1
+9/10/2024;53;1,57;50;1,49;F;Sin Cr;;Sin Cr;Fluorouracilo,Fluorouracilo,Folinato,OXALIplatino,Irinotecan;FOLFIRINOX;FOLFIRI,FOLFIRINOX,Irino,CREA,CREAT;Tumor maligno del pancreas, parte no especificada;2
+9/10/2024;38;1,56;83;1,96;F;Sin Cr;;Sin Cr;PERTUzumab,TRAStuzumab;cleopatra trastuzu IV;#N/D;Tumor maligno de la mama, parte no especificada;8
+9/10/2024;78;1,55;74;1,84;F;78,5;;Sin Cr;CARBOplatino,DOXOrubicina_LIPOSOMAL;CALYPSO;CARBO,PLATINO,TAXOL;Tumor maligno del ovario;2
+9/10/2024;77;1,48;44;1,36;F;Sin Cr;;Sin Cr;PACLItaxel;Paclitaxel semanal;DOXO,DOXO,INF,PACLI,semanal,TAXANO,20%,100%;Tumor maligno de la mama, parte no especificada;2
+9/10/2024;67;1,57;55;1,57;F;Sin Cr;;Sin Cr;Folinato,Fluorouracilo,Irinotecan,Fluorouracilo;FOLFIRI;FOLFIRI,FOLFOX,INF,Irino,MAYO ;Tumor maligno del colon, parte no especificada;2
+9/10/2024;63;1,57;60,8;1,66;F;Sin Cr;;Sin Cr;GEMcitabina,Paclitaxel LIGADO a ALBUMINA;Gemcitabina+NAB-Pacli;#N/D;Tumor maligno del pancreas, parte no especificada;4
+9/10/2024;64;1,66;52;1,55;F;47,6;;Sin Cr;CARBOplatino,PEMBROlizumab,Fluorouracilo;CF (carbo) 4d; RT ,5%,15%;Tumor maligno de la amigdala, parte no especificada;4
+9/10/2024;62;1,69;71;1,85;F;Sin Cr;;Sin Cr;DOCEtaxel;Docetaxel monoQT;Capec,CARBO,DOCE,INF,monoagente,PLATINO,70%;Tumor maligno de la mama, parte no especificada;1
+9/10/2024;57;1,54;78,7;1,9;F;Sin Cr;0,67;115,1;CARBOplatino,PACLItaxel,PEMBROlizumab;Keynote 522 - CARBOPLATINO/PACLITAXEL /PEMBROLIZUMAB;CARBO,CICLOF,DOXO,DOXO,INF,keynote,PACLI,PEMBRO,PLATINO, SC,AJUST,5%,95%,AUC;Tumor maligno de la mama, parte no especificada;3
+9/10/2024;58;1,55;56;1,58;F;Sin Cr;;Sin Cr;DOXOrubicina,Ciclofosfamida,Ciclofosfamida,Ciclofosfamida;AC; AC ,40%;Tumor maligno de la mama, parte no especificada;3
+9/10/2024;48;1,55;66;1,73;F;Sin Cr;;Sin Cr;PEMBROlizumab;PEMBROLIZUMAB;Suspend;Tumor maligno de la mama, parte no especificada;8
+9/10/2024;51;1,52;69;1,76;F;Sin Cr;;Sin Cr;CICLOfosfamida,DOXOrubicina;AC; AC ,INF,70%,100%;Tumor maligno de la mama, parte no especificada;4
+9/10/2024;41;1,7;70;1,83;F;Sin Cr;;Sin Cr;PEMBROlizumab;PEMBROLIZUMAB;INF,PEMBRO;Tumor maligno del endometrio;12
+9/10/2024;73;1,64;65;1,74;M;Sin Cr;;Sin Cr;TRAStuzumab,Fluorouracilo,Fluorouracilo,Folinato;GRAMONT +TRASTUZUMAB IV;FOLFOX,TrastU;Tumor maligno del estomago, parte no especificada;5
+9/10/2024;68;1,64;64;1,73;M;Sin Cr;;Sin Cr;DOCEtaxel;Docetaxel monoQT;DOCE, SC;Tumor maligno de la prostata;6
+9/10/2024;59;1,6;64;1,72;M;Sin Cr;;Sin Cr;Irinotecan,Fluorouracilo,Fluorouracilo,Folinato,Bevacizumab;Bevacizumab+FOLFIRI;FOLFIRI,FOLFOX,GRAMONT,PANItU;Tumor maligno del colon, parte no especificada;4
+9/10/2024;51;1,67;80;1,96;M;Sin Cr;;Sin Cr;CISplatino,GEMcitabina;GC Vejiga;CisplA,GEMci,PLATINO;Tumor maligno de la nasofaringe, parte no especificada;2
+9/10/2024;45;1,75;82;2,02;M;Sin Cr;;Sin Cr;Irinotecan,Fluorouracilo,Fluorouracilo,Folinato,CETUximab;Cetuximab semanal+FOLFIRI C1;FOLFIRI,INF;Tumor maligno del recto;2
+9/10/2024;39;1,7;67;1,79;M;Sin Cr;;Sin Cr;CISplatino,DOCEtaxel,Fluorouracilo;DCF gastrico;INF,30%,70%;Tumor maligno de la cabeza, cara y cuello;3
+9/10/2024;44;1,73;54;1,6;M;Sin Cr;;Sin Cr;OXALIplatino;CAPEOX;CAPEOX,INF,PLATINO,AJUST,10%;Tumor maligno del estomago, parte no especificada;5
